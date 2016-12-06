@@ -1,0 +1,75 @@
+/* CSS Document */
+
+.mainInvoiceContainer
+{
+	position:relative;
+	width:99%;
+	margin:0;
+	
+	padding-left:8px;
+	top:0;
+	left:0;
+}
+
+.row
+{
+	position:relative;
+	width:100%;
+	margin:0;
+	padding:0;
+	left:0;
+	page-break-inside:avoid;
+	height:191px;
+	
+	
+}
+.col1 pre, .col2 pre, .col3 pre
+{
+    text-decoration:none;
+    white-space: pre-wrap; 
+}
+.col1 .name, .col2 .name,.col3 .name
+{
+     font-weight: bold;
+
+}
+.col1, .col2,.col3
+{
+	position:relative;
+	width:31%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	page-break-inside:avoid;
+	word-break:normal;
+	float:left;
+	box-sizing:border-box;
+	padding-right:10px;
+
+	font-size:20px;
+	height:191px;
+	overflow:hidden;
+	
+}
+
+.colContent
+{
+	position:relative;
+	height:191px;
+	width:98%;
+	padding-right:5%;
+	padding-left:7%;
+	padding-top:18px;
+	box-sizing:border-box;
+	/* border:1px solid #000; */
+}
+
+.envelopeContent
+{
+	position:relative;
+	page-break-after:always;
+	padding-left:400px;
+	padding-top:100px;
+	box-sizing:border-box;
+}

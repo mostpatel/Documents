@@ -1,0 +1,759 @@
+/*** PHP Developed         alpha1 by tapandtype.com from ip: 9.99.99.99 ***/
+NEW TABLES:
+fin_loan_scheme (FOR storing duration X emi for a particular IRREGULAR LOAN STRUCTURE)
+
+fin_loan_scheme_agency (FOR storing duration X emi for a particular IRREGULAR LOAN STRUCTURE Agency)
+
+OLD TABLE CHANGES:
+
+fin_loan_emi
+Add emi_amount (FLOAT) field aftes actual_emi_date field
+
+fin_loan
+Add loan_scheme (int) field after loan_type field
+
+fin_vehicle_seize
+add sold(int) default 0 field after seize_date
+
+fin_emi_payment, fin_file_closed
+
+change the size of rasid_no field to 100
+
+fin_loan
+ 
+Add agency_loan_amount(int) default 0 After loan_starting_date
+
+fin_loan_penalty
+
+add rasid_no after payment_mode default "NA"
+add Paid_by after rasid_no default "NA"
+
+add created_by
+add last_updated_by
+add date_added
+add date_modified
+
+fin_customer
+
+paid_by after customer_pincode default "NA"
+
+CSS
+
+.addEMIDurationBtn,.deleteEMIDurationBtn,.addEMIDurationBtnAgency,.deleteEMIDurationBtnAgency{
+	position:relative;
+	top:-5px;
+	margin-left:5px;
+	}
+
+#uneven_loan_table
+{
+	display:none;
+	}	
+#EMIDurationTR,#EMIDurationAgencyTR{
+	display:none;
+	}	
+##############################
+08/12/2013
+\\\\\\\\\\\\\\\\
+DB Changes
+
+#Company Settle
+
+1. fin_agency_settle (settle_id[int],settle_date[date],receipt_no[varchar-255],payment_mode[int 1 or 0],noc_received_date[date],file_id[fin_file foriegn key],date_added,date_modified,created_by,last_updated_by)
+2. fin_agency_settle_cheque (settle_cheque_id[int],bank_id,branch_id,cheque_no,cheque_date,settle_id)
+
+\\\\\\\\\\\\\\\\\\\\
+Code Changes
+
+1. agency-functions.php insert,update,delete,get settle file functions and insert update delete get settle_file_cheque	
+2. new folder settle in the admin/file
+
+ 	
+\\\\\\\\\\\\\\\\\\\\\\
+###############################	
+
+09/12/2013
+\\\\\\\\\\\\\\\\\\\\\\
+
+CODE changes
+
+1. details.php admin/customer file settlement button and file settlment details
+
+CSS changes
+
+seperated rasid.css from adminMain.css
+
+##############################
+
+19/12/2013
+\\\\\\\\\\\\\\\\\\\\\\
+
+DB changes 
+
+1. set vehicle_id in fin_vehicle_seize to take NULL values.
+
+Code Changes
+
+1. changes in vehicle-functions.php : vehicle id =0 means no vehicle so vehicle_id=null
+2. changes in backup.php table="fin_vehicle_seize"
+
+##############################
+
+25/12/2013
+\\\\\\\\\\\\\\\\\\\\\\\\
+
+DB changes
+
+New Tables 
+
+1. fin_rasid_type  : rasid_type_id (int), rasid_type_name(Varchar)
+
+OLD table changes
+
+1. fin_loan_penalty total_amount (float), rasid_type_id(foriegn int), paid(int 0=no 1=yes) after amount_per_day and file_id (int) after loan_id
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\
+###########################################
+
+DB changes 
+
+OLD TABLE CHAnnges
+
+fin_loan_settings delete and import it contains rasid_lock and rasid_lock time.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+###########################################
+
+10/01/2014
+
+DB Changes
+
+add 8,Delete Reminder in fin_admin_right_table
+
+CODE CHANGES
+
+interest certificate in emi folder and added interest.css
+
+////////////////////////////////////
+################################################
+
+13/01/2014	
+
+DB CHanges 
+
+NEW TABLES
+
+fin_ac_main_settings - whether accounts is turned on or not
+fin_ac_settings - settings for each agency and our company accounts starting date and all
+
+OLD TABLES
+
+fin_customer - add opening_balance- default 0 and opening_cd default 0 after file_id.
+fin_ac_ledgers - current_balance, current_balance_cd, ledger_lock and legder_lock_time after opening_date.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+#################################################
+
+18/01/2014
+
+DB CHANGES
+
+OLD TABLE CHANGES
+
+fin_loan_emi_payment  include_accounts at the end of table default 1.
+fin_loan_penalty  include_accounts at the end of table default 0.
+fin_file_closed  include_accounts at the end of table default 1.
+fin_loan_cheque cash_amount after loan_cheque_amount
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+##################################################
+
+20/01/2014
+
+DB CHANGES
+
+OLD TABLE CHANGES
+
+fin_loan_cheque - add ledger_id default 0 at the end 
+fin_loan_penalty_cheque - add ledger_id default 0 at the end 
+fin_loan_emi_payment_cheque - add ledger_id default 0 at the end 
+fin_file_closed_cheque - add ledger_id default 0 at the end 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+22/01/2014
+
+DB CHANGES
+
+OLD TABLE CHANGES
+
+fin_customer current_balance default 0, current_balance_cd default 0 after opening_cd
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+09/02/2014
+
+old table changes 
+
+fin_loan add duration_unit default 1 after loan_duration
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+20/02/2014
+
+NEW TABLES 
+
+fin_ac_payment
+fin_ac_receipt
+fin_ac_contra
+fin_ac_jv
+fin_ac_combined_agency
+fin_ac_rel_agency_ca
+
+OLD TABLE CHANGES 
+
+add agency_id(Default NULL) and oc_id (Default NULL) in fin_ac_payment and fin_ac_receipt and fin_ac_jv before trans_date
+add auto_rasid_type 0=manual, 1=loan, 2= payment, 3 = penalty_ac and auto_id int default 0 after oc_id
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+24/02/2014
+
+OLD TABLE CHANGES 
+
+fin_loan_cheque :  loan_cheque_axin_no deafult NA NOT NULL
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+31/03/2014
+
+OLD TABLE CHANGES
+
+fin_Ac_settings
+
+add include_loan after loan_starting_date default 1 0=no, 1=yes, 2= yes without interest JV
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+02/04/2014
+
+update closed & unpaid files to have file_satus = 5 
+
+OLD TABLE CHANGES
+
+fin_customer set opening_balance as double instead of int
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+04/04/2014
+
+OLD TABLE CHANGES 
+
+fin_ac_settings add include_fc after include_ac default 1
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+16/04/2014
+
+NEW TABLE
+
+Create new table fin_loan_notice for notice saving
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+18/06/2014
+
+NEW TABLES
+
+fin_loan_welcome for welcome letters
+
+OLD  TABLE CHANGES
+
+fin_loan_notice change bucket and bucket_amount from FLOAT to VARCHAR(10)
+
+18/08/2014
+
+OLD TABLE CHANGES
+
+fin_welcome guarantor_name and guarantor_address after customer_address
+fin_loan_notice guarantor_name and guarantor_address after customer_address
+
+--------------------------------------------------------------------------
+
+09/10/2014
+
+OLD TABLE CHANGES
+
+fin_vehicle_insurance policy_no and cover_note_no both VARCHAR(255) DEFAULT NA after insurance_company_id
+fin_admin_right add 9 Back Date Receipt 
+
+-------------------------------------------------------------------------------
+
+20/10/2014
+
+OLD TABLE CHANGES
+
+fin_ac_ledgers Chnage opening_balance, current_balance from float to double
+fin_customer current_balance from int to float and float to double
+
+
+-------------------------------------------------------------------------------
+
+24/11/2014
+
+NEW TABLE
+
+fin_sale_notice
+
+OLD TABLE 
+
+fin_vehicle rto_papers,passing,permit,insurance default 0 at the end
+
+
+09/03/2015
+
+NEW TABLLE
+
+fin_legal_notice 
+
+
+07/04/2015
+
+NEW TABLE
+
+fin_emi_payment_deleted
+fin_file_noc
+
+OLD TABLE
+
+fin_vehicle add tax_exp_date after permit_exp_date and hp at the last 
+
+16/04/2015
+
+NEW TABLES
+fin_sms_records
+
+17/04/2015
+
+OLD TABLES
+fin_loan_penalty add emi_payment_id(default = null) after file_id
+
+27/04/2015
+
+NEW TABLES 
+
+fin_ac_ledgers_group, fin_rel_ac_ledgers_group
+
+13/05/2015
+
+OLD TABLE
+fin_loan_emi add sms_sent default 0 at the end
+
+14/05/2015
+
+NEW TABLE
+
+fin_rel_admin_company 
+
+11/06/2015
+
+OLD TABLE 
+
+fin_loan change reducing_roi to double
+
+08/07/2015
+
+NEW TABLE
+
+fin_groups
+fin_rel_groups_file
+
+OLD TABLE CHANGES
+
+add NOTE to fin_loan_notice
+
+14/07/2015	
+
+OLD TABLE Changes
+strip the fin_ac_jv table : remover to_customer_id,from_customer_id, to_customer_id, to_ledger_id
+
+NEW TABLE 
+
+fin_ac_jv_cd
+
+RUN transferDataToNewJVTable in emi-functions.php
+
+20/07/2015
+
+OLD TABLE
+
+fin_ac_main_settings add file_no_reuse at the end of the table
+
+14/08/2015
+
+changes in fin_ac_main_settings
+
+16/08/2015
+
+OLD TABLE
+
+fin_customer, fin_guarantor - secondary_name,secondary_address
+fin_ac_contra add oc_id and agency_id NULL after remarks
+
+26/08/2015
+
+add period_restriction in fin_ac_main_settings
+
+21/09/2015
+
+fin_city_area Add pincode at the end
+
+
+26/09/2015
+
+OLD TABLE 
+
+fin_loan_welcome add welcome_type,reg_ad,received
+
+
+29/09/2015
+
+OLD TABLE
+
+fin_ac_main_settings Add file_no_generate at the end
+
+05/10/2015
+
+
+NEW  TABLE
+
+fin_reg_ad_not_received_types
+
+fin_loan_welcome add not_received_type_id 
+
+
+26/10/2015
+
+fin_loan_welcome add received_date 
+
+30/10/2015
+
+NEW TABLE
+
+fin_vehicle_seize_godowns
+
+OLD TABLE
+fin_vehicle_seize add gowdown_id accepting null
+
+09/11/2015
+
+fin_loan_notice notice_stage
+fin_ac_main_settings notice_stage
+
+21/11/2015
+
+fin_loan_notice - add reg_ad,received,not_received_type_id,received_date at the end
+
+23/11/2015
+
+add NOC right to fin_admin_right
+
+05/12/2015
+OLD TABLE
+
+fin_ac_main_settings
+
+add PENALTY_IN_DAYS,PENALTY_IN_MONTHS_LOAN_PERCENT,DAYS_OF_PENALTY_EQUAL_TO_MONTH
+
+fin_vehicle add remarks,bill 
+
+
+
+20/12/2015
+
+NEW TABLE 
+fin_bulk_notice
+
+OLD TABLE
+fin_loan_notice add bulk_notice_id at the  end default NULL
+
+
+25/12/2015
+
+NEW TABLE
+
+fin_collection_list
+fin_rel_collection_list_file
+
+04/01/2016
+
+NEW TABLE
+
+fin_loan_cheque_return
+fin_advocate
+
+05/01/2016
+
+OLD TABLE 
+
+fin_legal_notice add advocate_id
+fin_notice advocate_id
+
+12/01/2016
+
+OLD TABLE
+
+fin_advocate add secondary_advocate_name
+fin_legal_notice add court_id,case_type_id,stage,next_date,type
+fin_loan_cheque_return add cheque_amount BIGINT and type (0=customer,1=guarantor)
+
+NEW Table
+
+fin_courts
+fin_case_type
+
+17/01/2016
+
+OLD TABLE
+
+fin_area 
+
+add secondary_area_name
+
+fin_our_company
+
+add secondary_company_name
+
+30/01/2016
+
+NEW TABLE
+
+fin_extra_customer,
+fin_extra_customer_contact_no
+
+24/02/2016
+
+OLD TABLE
+
+fin_ac_main_settings 
+
+25/02/2016
+
+NEW TABLE
+
+fin_case_petetionar
+
+OLD TABLE
+
+fin_legal_notice (add case_petetionar_id)
+
+06/03/2016
+
+fin_loan_notice
+
+add notice_type at the end
+
+19/03/2016
+
+add remarks at the end of fin_vehicle_insurance
+l
+30/03/2016
+
+add index to fin_ac_ledger table if error change default dat of date_added and date_modified
+
+04/04/2016
+
+OLD TABLE
+
+fin_file_reminder
+
+add payment_reminder at the end.
+
+08/04/2016
+
+OLD TABLE
+
+fin_main_ac_settings
+
+fin_file add mem_no at the end.
+
+09/04/2016
+
+OLD TABLE
+
+fin_file add ho_opening_date at the end.
+fin_vehicle add vehicle_key at the end.
+
+NEW TABLE
+
+fin_customer_cheques
+fin_customer_cheque_details
+
+
+25/04/2016
+
+fin_loan_emi_payment_cheque_return
+
+add rasid_no, payment_date at the end
+
+
+11/05/2016
+
+OLD TABLE
+
+fin_ac_main_settings
+
+add show_customer_image at the end of the table
+
+fin_human_proof_type
+
+add customer_photo at 7 
+
+17/05/2016
+
+update fin_ac_main_settings
+
+18/05/2016
+
+OLD TABLE
+
+fin_ac_ledgers
+
+add in_percent,out_percent,ledger_type at the end of the table
+
+
+28/05/2016
+
+NEW TABLE
+
+fin_rto_agent
+
+OLD TABLE
+
+fin_vehicle 
+
+add rto_agent_id and work_given_date
+
+01/06/2016
+
+NEW TABLE
+
+fin_rto_work
+
+fin_rto_work_rate
+
+fin_vehicle_seize_released
+
+fin_legal_notice_finnished
+
+fin_rasid_book
+
+
+13/06/2016
+
+OLD table
+
+fin_admin_right
+
+add Accounts at 12
+add Update period settings at 13
+
+fin_ac_main_settings
+
+add rto_work
+
+18/06/2016
+
+fin_legal_notice
+
+add prev_date in fin_legal_notice default NULL
+
+24/06/2016
+
+fin_ac_main_settings
+
+add qty_in_jv
+
+fin_ac_jv
+
+add qty def 0 at the end
+
+
+06/07/2016
+
+NEW TABLE
+
+fin_file_charges
+
+OLD TABLE
+
+fin_legal_notice
+
+add warrant 0=NA, 1= NO , 2 =Yes
+
+09/07/2016
+
+OLD TABLE loan_cheque_return
+
+add received DEF 0, not_received_type_id DEF NULL, received_date DEF 1970-01-01 at the end
+
+OLD TABLE fin_rasid_book
+
+add received_date
+
+
+02/08/2016
+
+old table
+
+fin_ac_main_settings
+
+add auto_chq_no_gen and no_of_guarantor at the end
+
+21/08/2016
+
+NEW TABLE 
+
+fin_vehicle_docs
+
+call transferDocsFromVehicleToVehicleDocs() in emi-functions
+
+delete cols from fin_vehicle
+
+
+17/09/2016
+
+OLD TABLE
+
+add ac_no varchar(50) fin_customer_cheques_details
+
+NEW TABLE
+
+fin_enquiry
+fin_enquiry_status
+
+27/09/2016
+
+OLD TABLE
+
+fin_main_ac_settings changes
+
+10/10/2016
+
+OLD TABLE
+
+fin_ac_Settings add include_fc_interest at the def 1
+
+12/11/2016
+
+OLD TABLE fin_file_charges add file_rec def 0
+
+25/11/2016
+
+NEW TABLE
+
+fin_loan_percent_slabs
+fin_model_value
+fin_rel_model_loan_slabs

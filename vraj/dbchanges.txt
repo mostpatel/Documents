@@ -1,0 +1,390 @@
+// 04-08-2014
+
+OLD TABLE CHANGES 
+
+add tax_ledger_id in edms_tax
+
+// 11-08-2014
+
+NEW TABLE CHANGES
+
+edms_invventory_item
+edms_purchase_item
+edms_sales_item
+
+OLD TABLE CHANGES
+
+edms_sales_tax ==> change spare_part_id --> sales_item_id foriegn key edms_sales_item -> sales_item_id
+edms_purchase_tax ==> change spare_part_id --> purchase_item_id foriegn key edms_purchase_item -> purchase_item_id
+edms_our_company ==> add item_code_counter after invoice_counter
+
+// 24-08-2014
+
+edms_our_company ==> add job_counter default 1 after item_code_counter
+
+// 16-09-2014
+
+NEW TABLES 
+
+edms_ac_debit_note
+edms_ac_debit_note_item
+edms_ac_debit_note_nonstock
+edms_ac_debit_note_tax
+edms_ac_credit_note
+edms_ac_credit_note_item
+edms_ac_credit_note_nonstock
+edms_ac_credit_note_tax
+
+OLD TABLE CHANGES
+
+edms_ac_sales - define all constraints
+edms_ac_purchase - define from_customer_id constraint
+
+-------------------------------------------------------
+
+30/09/2014
+
+OLD TABLE CHANGES
+
+edms_inventory_item - date_added and modified from DATE to DATETIME
+
+/////////////////////////////////////////////////////////
+
+11/10/2014
+
+emds_vehicle add battery_service_book_no and service_no and ledger_id after service_book VARCHAR(255) DEFAULT NA
+
+///////////////////////////////////////////////////////
+
+14/10/2014
+
+item_name VARCHAR 100 to 255
+
+//////////////////////////////////////////////////////
+
+15/10/2014
+
+edms_vehicle add opening_balance and opening_cd at the end of the table
+
+//////////////////////////////////////////////////////
+
+17/10/2014
+
+NEW TABLE
+edms_purchase_sales_jv for dyanmic jvs on vehicle purchase and sales
+
+/////////////////////////////////////////////////////
+18/10/2014
+
+OLD TABLE 
+edms_ac_sales add invoice_no VARCHAR(255) at the end of the table
+
+////////////////////////////////////////////////////////
+25/10/2014
+
+OLD TABLE 
+edms_jb_rel_work_done  update jb_wd_id from cascade to restrict on delete
+edms_jb_rel_description  update jb_desc_id from cascade to restrict on delete
+edms_jb_rel_sales update sales_id from cascade to restrict on delete
+
+////////////////////////////////////////////////////////////
+27/10/2014
+OLD TABLE
+add oc_id in edms_ac_contra
+edms_vehicle_invoice add under_exchange and exchange_vehicle_id after sales_id 
+
+NEW TABLE
+
+edms_financer_payment 
+
+////////////////////////////////////////////////////////////
+29/10/2014
+
+OLD TABLE 
+edms_ac_settings Add default_vehicle_purchase, default_vehicle_sales, default_spares_purchase, default_spares_sales NULL at the end of the table
+
+/////////////////////////////////////////////////////////
+01/11/2014
+
+edms_vehicle add opening_balance_extra double, opening_cd_extra, extra_ledger_id
+
+
+//////////////////////////////////////////////////////
+02/11/2014
+
+NEW TABLE
+
+edms_receipt_type
+
+/////////////////////////////////////////////////////////
+08/11/2014
+
+NEW TABLE
+
+edms_dictionary_item
+edms_inventory_jv
+edms_inventory_item_jv
+
+/////////////////////////////////////////////////////////
+
+OLD TABLE CHANGES
+
+change edms_ac_ledgers where ledger_name = kasar, set head_id = 22 instead of 13
+
+////////////////////////////////////////////////////////
+
+29/12/2014
+
+OLD TABLE
+
+edms_ac_debit_note_item change debit_note_id from restrict to cascade
+edms_ac_credit_note_item change credit_note_id from restrict to cascade
+edms_ac_debit_note_nonstock change debit_note_id from restrict to cascade
+edms_ac_credit_note_nonstock change credit_note_id from restrict to cascade
+
+
+19/02/2015
+
+OLD TABLE CHANGES
+
+edms_inventory_item add our_company_id (int) after opening_godown_id 
+edms_vehicle_model  add our_company_id (int) at last( after mrp )
+
+22/02/2015
+
+NEW TABLE 
+
+edms_ac_jv_cd 
+
+26/02/2015
+
+OLD TABLE
+
+
+edms_tax add contraint tax_ledger_id to edms_ac_ledgers
+
+
+08/03/2015
+
+edms_tax_grp add our_company_id at the end 
+edms_godown add our_company_id after city_id
+
+20/03/2015
+
+edms_purchase_sales_jv add contraint to ledger_id
+
+11/04/2015
+
+NEW TABLE
+
+edms_sms_records
+
+OLD TABLE
+edms_job_card add next_service_date after actual_delivery
+
+
+21/04/2015
+
+old table
+
+edms_closed_file_check add sms_sent_date
+
+
+25/04/2015
+
+edms_admin_right add update_unfinalized_jb 
+
+04/06//2015
+
+edms_sms_records add number_sent default 1 at the end of the table.
+
+
+24/07/2015
+
+add tax_invoice_counter in edms_our_company table.
+
+27-07-2015
+add display_name in edms_tax,edms_tax_grp
+add invoice_note in edms_ac_sales
+
+27/08/2015
+
+NEW TABLE
+
+edms_invoice_types
+
+OLD TABLE
+
+edms_ac_sales modify retail_tax index to edms_invoice_types
+
+01/09/2015	
+
+NEW TABLE
+
+edms_ac_sales_info
+
+16/09/2015
+
+NEW TABLE
+
+edms_ac_delivery_challan
+
+edms_ac_sales_item, edms_ac_sales_nonstock add delivery_challan_id 
+
+22/09/2015
+
+edms_customer add cst_no and service_tax_no after tin_no
+
+NEW TABLE
+
+edms_ac_payment_modes
+edms_ac_payment_details
+edms_ac_receipt_details
+
+02/10/2015
+
+NEW TABEL
+
+edms_groups
+fin_rel_groups_customer
+fin_rel_groups_broker
+
+06/10/2015
+
+OLD TABLE
+
+fin_receipt add reconciliation_date at the end.
+fin_payment add reconciliation_date at the end.
+
+12/10/2015
+
+NEW TABLE
+
+edms_customer_opening_balance
+
+13/10/2015
+
+OLD TABLE 
+
+fin_our_company add service_tax_no and pan_no at the end.
+
+18/11/2015
+
+OLD TABLE
+
+fin_inventory_item add use_barcode,barcode_prefix, barcode_counter after remarks
+
+
+25/11/2015
+
+add cascade to from_customer_id,to_customer_id,from_ledger_id,to_ledger_id in all transaction table
+
+edms_ac_delivery_challan add cascade to delivery_chalan_id
+
+NEW TABLE 
+
+BARCODE_trnasaction
+
+08/12/2015
+
+OLD TABLE
+
+edms_ac_sales_info add consignee_address 
+
+edms_customer add email
+
+edms_ac_receipt add parent_id
+
+21/12/2015
+
+NEW TABLE 
+
+edms_ac_jv_types
+
+OLD TABLE 
+
+edms_ac_jv add jv_type_id def NULL at the end
+
+edms_inventory_jv add jv_type_id def NULL , inventory_jv_mode def = 0 ,ledger_id def NULL, customer_id def NULL 
+
+
+27/12/2015
+
+edms_invoice_types
+
+add invoice_type_print_name, type def 0 , type 
+
+
+29/12/2015
+
+OLD TABLE
+
+edms_barcode_transactions
+add date_added 
+
+01/02/2016
+
+NEW TABLE
+
+edms_tax_class
+
+OLD TABLE
+
+edms_tax_grp add tax_class_id (NULL) at the end of the table
+edms_ac_ledgers add tax_class_id (NULL) at the end of the table
+add cst_no, service_tax_no after sales_no 
+
+
+edms_ac_sales_non_stock, edms_ac_sales_item
+edms_ac_purchase_non_stock, edms_ac_purchase_item
+edms_ac_credit_note_non_stock, edms_ac_credit_note_item
+edms_ac_debit_note_non_stock, edms_ac_debit_note_item
+add tax_class_id and ledger_id at the end
+
+08/02/2016
+
+edms_item_unit add is_base_unit at the end
+
+17/02/2016
+
+edms_customer add customer_no at the end default NA
+
+22/02/2016
+
+edms_ac_sales_non_stock
+edms_ac_purchase_non_stock
+edms_ac_credit_note_non_stock
+edms_ac_debit_note_non_stock
+add expense_id at the end
+
+09/03/2016
+
+NEW TABLE
+
+edms_tax_forms
+
+OLD TABLE
+
+edms_tax_class
+
+add tax_form_id at the end
+
+NEW TABLE
+
+edms_product_desc
+
+16/03/2016
+
+OLD TABLE TO NEW TABLE edms_ac_main_settings
+
+OLD TABLE
+Add counters to edms_our_company 
+
+21/03/2016
+
+OLD TABLE
+
+edms_ac_purchase
+
+add bill_no and bill_date at the end of the table
+

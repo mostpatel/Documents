@@ -1,0 +1,408 @@
+.mainDiv
+{
+	position:relative;
+	width:97%;
+	height:100%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	/* background:#999; */
+	
+}
+
+.section1
+{
+	position:relative;
+	width:100%;
+	height:10%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	border-bottom:1px solid #000;
+	padding-bottom:10px;
+}
+
+.address
+{
+	position:relative;
+	float:left;
+	width:40%;
+	height:100%;
+	text-align:center;
+	font-size:16px;
+}
+
+.logo
+{
+	position:relative;
+	float:left;
+	width:20%;
+	height:100%;
+    background:#333;
+	
+}
+
+.name
+{
+	position:relative;
+	float:right;
+	width:40%;
+	height:100%;
+
+}
+
+.vaibhav
+{
+	position:relative;
+	height:60%;
+	font-size:38px;
+	text-align:left;
+	font-weight:700;
+	
+}
+
+.rest
+{
+	position:relative;
+	height:40%;
+	font-size:27px;
+	text-align:left;
+	font-weight:700;
+}
+
+.clearDiv
+{
+	clear:both;
+}
+
+.section2
+{
+	position:relative;
+	width:100%;
+	height:6.5%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+		
+}
+
+.strip1
+{
+	position:relative;
+	width:100%;
+	height:3%;
+	text-align:center;
+	font-size:18px;
+	font-weight:700;
+	border-bottom:1px solid #000;
+}
+
+.strip2
+{
+	position:relative;
+	width:100%;
+	height:3%;
+	text-align:left;
+	font-size:16px;
+	padding-top:5px;
+	border-bottom:1px solid #000;
+	
+}
+.srno, .date, .time
+{
+	position:relative;
+	float:left;
+	width:33%;
+	height:100%;
+	
+}
+
+.section3
+{
+	position:relative;
+	width:100%;
+	min-height:6%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	border-bottom:1px solid #000;
+	text-align:center;	
+}
+
+.leftSection3
+{
+	position:relative;
+	float:left;
+	width:50%;
+	min-height:50px;
+	border-right:1px solid #000;
+}
+
+.rightSection3
+{
+	position:relative;
+	float:right;
+	width:49.5%;
+	min-height:50px;;
+}
+
+.section4
+{
+	position:relative;
+	width:100%;
+	height:10%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	border-bottom:1px solid #000;
+}
+
+.freeCoupon
+{
+	position:relative;
+	float:left;
+	width:20%;
+	height:100%;
+}
+
+.6km
+{
+	position:relative;
+	float:right;
+	width:79%;
+	height:100%;
+	min-height:100px;
+    border-right:1px solid #000;
+}
+
+.dtkm
+{
+	position:relative;
+    float:left;
+	width:12.5%;
+	height:100%;
+	border-right:1px solid #000;
+	padding-left:3px;
+}
+
+.lastdtkm
+{
+	
+	position:relative;
+    float:left;
+	width:12%;
+	height:100%;
+	padding-left:3px;
+}
+
+.6km : last-child {
+    border-right:none;
+}
+
+.no
+{
+    position:relative;
+    float:left;
+	width:15%;
+	height:100%;
+	font-size:25px;
+	margin-right:3px;
+
+	
+}
+.data
+{
+	position:relative;
+    float:right;
+	width:80%;
+	height:100%;
+	
+}
+
+.section5
+{
+	position:relative;
+	width:100%;
+	height:25%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.leftSection5
+
+{
+  position:relative;
+  float:left;	
+  width:50%;
+  height:100%;
+ 
+}
+
+.rightSection5
+
+{
+  position:relative;
+  float:right;	
+  width:50%;
+  height:100%;
+ 
+}
+
+tr > td
+{
+  padding-bottom: 8px;;
+}
+
+section6
+{
+    position:relative;
+	width:100%;
+	height:25%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	border-bottom:1px solid #000;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.section7
+{
+	position:relative;
+	width:100%;
+	height:25%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-bottom:1px solid #000;
+}
+
+.sec7Heading
+{
+	position:relative;
+	width:100%;
+	height:2.5%;
+	font-weight:600;
+	text-align:left;
+	padding-bottom:15px;
+	padding-top:10px;
+}
+
+.sec7Content
+{
+    position:relative;
+	width:100%;
+	height:20%;
+}
+
+
+
+.section8
+{
+	position:relative;
+	width:100%;
+	height:25%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-bottom:1px solid #000;
+	
+}
+
+.leftSection8
+{
+	
+	position:relative;
+	float:left;
+	width:50%;
+	height:100%;
+	
+}
+
+.rightSection8
+{
+	position:relative;
+	float:right;
+	width:50%;
+	height:100%;
+}
+
+.supSign
+{
+	position:relative;
+	margin-top:40px;
+	text-align:right;
+	right:50px;
+}
+
+.section9
+{
+	position:relative;
+	width:100%;
+	height:25%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-bottom:1px solid #000;
+}
+
+.part1Sec9, .part2Sec9, .part3Sec9
+{
+	position:relative;
+	float:left;
+	width:24%;
+	height:100%;
+	border-right:1px solid #000;
+	padding-left:10px;
+}
+
+.part4Sec9
+{
+	position:relative;
+	float:left;
+	width:23%;
+	height:100%;
+	padding-left:10px;
+	
+}
+
+.section10
+{
+	position:relative;
+	width:100%;
+	height:5%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	padding-top:10px;
+}
+
+.cusSign
+{
+	position:relative;
+	height:2%;
+	width:100%;
+	text-align:right;
+	margin-top:15px;
+	right:50px;
+}

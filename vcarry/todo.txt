@@ -1,0 +1,26 @@
+Invoice
+Dealer and Broker
+Payment Receipt for customer uchak and financer
+add ledger id to add vehicle for dealer broker or financer
+rasid no 
+
+
+
+///////////////////////////////
+
+JOB CARD DELETE - DONE.
+Delete Receipt Everywhere - DONE.
+Opening Vehicles -  DONE.
+All Transactions For Customer Module - DONE.
+Todays Sale Table in Sales, Cash Sales - DONE.
+Deafult Spares And Labour Sales And Purchase Ledger - DONE.
+Default Vehicle Sales And Purchase Ledger. - DONE.
+exchangein vehicle sale - Display Exchange Price - ALmost DOne.
+dealer Amount And Customer Amount in Vehicle Table - Customer amount done.
+Financer Search And Receipt Left Overs Module.
+All Transaction for tax ledger.
+Vehicle Delivery Challan One Input, other input auto fill.
+OverView Of Customer BalanCe on Customer Home Page.
+tax and retail different invoice counter.
+financer recipt remarks and edit finanacer namej.
+

@@ -1,0 +1,11 @@
+<?php require_once('cg.php');
+require_once('bd.php');
+require_once('adminuser-functions.php');
+require_once('customer-functions.php');
+require_once('guarantor-functions.php');
+require_once('file-functions.php');
+require_once('vehicle-functions.php');
+$admin_id=$_SESSION['adminSession']['admin_id'];
+$file_id=$_POST['vehicle_docs_file_id'];
+header("Location: ".WEB_ROOT."admin/customer/vehicle/docs/index.php?view=edit&access=approved&id=".$file_id);
+exit;

@@ -1,0 +1,26 @@
+body
+{
+	min-width:1000px;
+	}
+.hoverContainer
+{
+ position:relative;
+ padding-left:25px;
+ padding-top:25px;
+ padding-right:25px;
+ top:70px;
+ font-family: 'minerva-modern';
+ font-size:16px;
+ text-align:center;	
+ color:#FFF;
+}
+
+.hoverStyling
+{
+	background:rgba(0, 0, 0, 0.5);
+}
+
+.boldFonts
+{
+	font-weight:bold;
+}

@@ -1,0 +1,317 @@
+@font-face
+{
+font-family: titleFont;
+src: url(../fonts/Carrois_Gothic_SC/CarroisGothicSC-Regular.ttf);
+}
+
+@font-face
+{
+font-family: headingFont;
+src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+@font-face
+{
+font-family: myFont;
+src:url(../fonts/segoeui.ttf);
+}
+@font-face
+{
+font-family: myFontBold;
+src:url(../fonts/Roboto/Roboto-Bold.ttf)
+}
+
+*
+{
+	padding:0;
+	margin:0;
+}
+
+html,
+body 
+{
+   margin:0;
+   padding:0;
+   height:100%;
+   width:100%;
+   
+}
+
+a
+{
+	color:#000;
+	text-decoration:none;
+}
+
+a:selected
+{
+	color:#000;
+}
+
+
+.mainClass
+{
+	position:relative;
+	width:210mm;
+	height:297mm;
+	font-size:12px;
+}
+
+.section1, .section2, .section3
+{
+	position:relative;
+	height:33%;
+	width:95%;
+	margin-left:2.5%;
+
+	
+} 
+
+.section2, .section3
+{
+	
+	background:#CCC;
+	
+} 
+
+.ecs_top
+{
+	position:relative;
+	height:33.3%;
+	width:100%;
+	min-height:33.3%;
+	max-height:33.3%;
+}
+
+.ecs_middle, .ecs_bottom
+{
+	position:relative;
+	height:40%;
+	width:100%;
+	min-height:40%;
+	max-height:40%;
+}
+
+.ecs_bottom
+{
+	position:relative;
+	height:26%;
+	width:100%;
+	min-height:26%;
+	max-height:26%;
+}
+
+.ecs_bottom
+{
+	
+	
+}
+
+.ecs_top_left
+{
+	position:relative;
+	float:left;
+	width:25%;
+	height:100%;
+	
+}
+
+.ecs_top_right
+{
+	position:relative;
+	float:right;
+	width:75%;
+	height:100%;
+	
+}
+
+.company_name
+{
+	position:relative;
+	text-align:center;
+	font-size:16px;
+}
+.tick_table
+{
+	position:relative;
+	margin-left:25px;
+}
+
+.tableStyling, tr, td
+{
+	border: 1px solid black;
+}
+
+.clr
+{
+	clear:both;
+}
+
+.oneRow
+{
+   position:relative;
+   width:100%;
+   height:25%;	
+}
+
+.oneRowMiddle
+{
+   position:relative;
+   width:100%;
+   height:20%;	
+}
+
+.UMRN
+{
+	position:relative;
+	float:left;
+	width:70%;
+}
+
+.ecsdate
+{
+	position:relative;
+	float:right;
+	width:30%;
+}
+
+.bank_code
+{
+	position:relative;
+	float:left;
+	width:50%;
+}
+
+.utility_code
+{
+	position:relative;
+	float:right;
+	width:49%;
+}
+
+.authorize
+{
+	position:relative;
+	float:left;
+	width:50%;
+}
+
+.to_debit_tick
+{
+	position:relative;
+	float:right;
+	width:49%;
+}
+
+.with_bank
+{
+	position:relative;
+	margin-left:25px;
+	float:left;
+	width:40%;
+}
+
+.IFSC
+{
+	position:relative;
+	float:left;
+	width:30%;
+}
+
+.MICR
+{
+	position:relative;
+	float:right;
+	width:26%;
+}
+
+.amount_in_words
+{
+	position:relative;
+	float:left;
+	width:70%;
+	margin-left:25px;
+}
+
+.amount_in_number
+{
+	position:relative;
+	float:right;
+	min-width:24%;
+	min-height:80%;
+	margin-right:15px;
+	border:1px solid black;
+	top:-5px;
+	font-size:14px;
+}
+
+.frequency
+{
+	margin-left:25px;
+}
+
+.reference1
+{
+	position:relative;
+	float:left;
+	width:70%;
+	margin-left:25px;
+}
+
+.phone_no
+{
+	position:relative;
+	float:right;
+	width:26%;
+}
+
+.reference2
+{
+	position:relative;
+	float:left;
+	width:70%;
+	margin-left:25px;
+}
+
+.email_id
+{
+	position:relative;
+	float:right;
+	width:26%;
+}
+
+.ecs_bottom_left
+{
+	position:relative;
+	float:left;
+	width:30%;
+	height:85%;
+	margin-left:25px;
+}
+
+.ecs_bottom_right
+{
+	position:relative;
+	float:right;
+	width:65%;
+	height:85%;
+}
+
+.ecs_bottom_right_upper
+{
+	position:relative;
+	width:100%;
+	min-height:50%;
+}
+
+.signature_section
+{
+	position:relative;
+	min-width:25%;
+	float:left;
+	margin-right:10px;
+	min-height:30px;;
+	border-bottom:1px solid black;
+	font-size:12px;
+	color:#CCC;
+}
+

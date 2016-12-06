@@ -1,0 +1,1 @@
+C:\Windows\System32\mshta.exe "C:\Apache2\htdocs\trexpro\testing\notification.hta"

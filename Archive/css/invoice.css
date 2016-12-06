@@ -1,0 +1,395 @@
+.mainInvoiceContainer
+{
+	position:relative;
+	width:100%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	/* background:#999; */
+	
+}
+.font
+{
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+
+
+.sectionOne
+{
+	position:relative;
+	min-height:10%;
+	width:100%;
+	border-bottom:1px solid #000;
+	font-size:18px;
+	/*background:#9CF;*/
+	
+}
+
+.leftSectionOne
+{
+	position:relative;
+	float:left;
+	width:10%;
+	height:100%;
+	min-height:100px;
+	text-align:center;
+	margin:0 auto;
+	
+}
+
+
+.rightSectionOne
+{
+	position:relative;
+	float:right;
+	width:90%;
+	height:100%;
+	min-height:100px;
+	/*background:#C6F; */
+}
+
+.companyName
+{
+	position:relative;
+    font-size:26px;
+	margin-top:5px;
+	text-align:center;
+	font-weight:800;
+}
+
+.address
+{
+	position:relative;
+    font-size:16px;
+	margin-top:5px;
+	text-align:center;
+}
+
+
+
+.clearFix
+{
+	clear:both;
+}
+
+.sectionTwo
+{
+	position:relative;
+	height:10%;
+	width:100%;
+	margin-top:1%;
+	font-size:18px;
+	
+}
+
+.chalanNo
+{
+	position:relative;
+	float:left;
+	width:40%;
+	height:100%;
+	left:3%;
+	
+}
+
+.date
+{
+	position:relative;
+	float:right;
+	width:20%;
+	height:100%;
+	
+}
+
+.sectionThree
+{
+	position:relative;
+	height:30%;
+	width:100%;
+	margin-bottom:25px;
+	font-size:18px;
+	font-size:18px;
+	
+	/*background:#3C9;*/
+}
+
+.leftDivInSectionThree
+{
+	position:relative;
+	float:left;
+	width:43%;
+	height:100%;
+	min-height:100px;
+	padding-top:25px;
+	border: 1px solid #000;
+    padding: 10px 20px;
+    border-radius: 15px;
+	line-height:25px;
+	letter-spacing:0.5px;
+}
+
+.rightDivInSectionThree
+{
+	position:relative;
+	float:left;
+	width:40%;
+	margin-left:5%;
+	height:100%;
+	min-height:100px;
+	padding-top:25px;
+	border: 1px solid #000;
+    padding: 10px 20px;
+    border-radius: 15px;
+	
+}
+
+table
+{
+border-collapse:collapse;
+
+font-size:18px;
+}
+
+.lastTable
+{
+	border:1px;
+}
+
+table, th
+{
+
+
+font-family:Verdana, Geneva, sans-serif;
+}
+table td
+{
+	
+}
+
+.sectionFour
+{
+	position:relative;
+	height:15%;
+	width:95%;
+	
+	
+	/* background:#F00; */
+	
+}
+
+.sectionFourLeft
+{
+	position:relative;
+	float:left;
+	width:37%;
+	height:100%;
+	border: 1px solid #000;
+    padding: 10px 20px;
+    border-radius: 15px;
+	/* background:#333; */
+}
+
+.sectionFourLeftTitle
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	text-align:center;
+	padding-bottom:20px;
+	font-weight:600;
+	
+}
+
+.sectionFourMiddle
+{
+	position:relative;
+	float:left;
+	width:28%;
+	margin-left:1%;
+	height:100%;
+	border: 1px solid #000;
+    padding: 10px 20px;
+    border-radius: 15px;
+	/* background:#ccc; */
+}
+
+.sectionFourRight
+{
+	position:relative;
+	float:right;
+	width:20%;
+	height:100%;
+	border: 1px solid #000;
+    padding: 10px 20px;
+    border-radius: 15px;
+	/* background:#ccc; */
+}
+
+
+.sectionFive
+{
+	position:relative;
+	height:20%;
+	width:100%;
+	margin-top:25px;
+	margin-bottom:25px;
+	font-size:18px;
+	/* background:#636;*/
+	
+}
+
+.leftSectionFive
+{
+	position:relative;
+	float:left;
+	width:45%;
+	height:100%;
+	line-height:25px;
+	letter-spacing:0.5px;
+	
+	
+}
+
+.rightSectionFive
+{
+	position:relative;
+	float:right;
+	width:50%;
+	height:100%;
+	line-height:25px;
+	
+	
+}
+
+.sectionSix
+{
+	position:relative;
+	bottom:0;
+	height:20%;
+	width:100%;
+	margin-top:25px;
+	font-size:18px;
+	/* background:#636;*/
+	
+}
+
+.leftSectionSix
+{
+	position:relative;
+	float:left;
+	width:45%;
+	height:100%;
+	line-height:25px;
+	
+	
+}
+
+.bigHeadinginLastDiv
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	text-align:center;
+	font-weight:600;
+	font-size:20px;
+}
+
+.chargableItems
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	margin-top:10px;
+	
+}
+
+.note
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	margin-top:10px;
+	font-weight:700;
+	border-bottom:1px solid #000;
+	border-top:1px solid #000;
+}
+
+.leftSideBullets
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	margin-top:10px;
+	line-height:25px;
+	letter-spacing:0.5px;
+}
+
+
+.rightSectionSix
+{
+	position:relative;
+	float:right;
+	width:50%;
+	height:100%;
+	line-height:25px;
+	
+}
+
+.rightSideBullets
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	margin-top:10px;
+	line-height:25px;
+	letter-spacing:0.5px;
+}
+
+.sectionSeven
+{
+	
+	position:relative;
+	bottom:0;
+	height:20%;
+	width:100%;
+	margin-top:5px;
+	font-size:18px;
+	
+}
+
+.declaration
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	
+}
+
+.signDiv
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	margin-top:15px;
+	
+}
+
+.ourSign
+{
+	position:relative;
+	float:left;
+	width:45%;
+	height:100%;
+	
+}
+
+.theirSign
+{
+	
+	position:relative;
+	float:right;
+	width:45%;
+	height:100%;
+}

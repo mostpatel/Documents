@@ -1,0 +1,4 @@
+<tr>
+<td>Customer's Photo</td>
+<td > <?php if($customer_image!="error") { ?>  <a href="<?php echo WEB_ROOT."images/customer_proof/".$customer_image; ?>"><img style="height:100px;" src="<?php echo WEB_ROOT."images/customer_proof/".$customer_image; ?>" /></a></td> <?php } ?>
+</tr>

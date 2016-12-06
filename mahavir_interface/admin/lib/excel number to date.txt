@@ -1,0 +1,18 @@
+function convertExcelSerialNumberToDate($serial_no)
+{
+	if(checkForNumeric($serial_no))
+	{
+		$loan_approval_date_excel_serial_no = $serial_no; // number of days from 01/01/1900
+		
+		 $date_01_01_1970 = date("Y-m-d",mktime(0,0,0,1,1,1970));
+ 		
+		 $days_between_1900_1970 = 25569;
+		
+		 $days_from_1970 = $loan_approval_date_excel_serial_no - $days_between_1900_1970;
+		 
+		  $loan_approval_date_add_days = $date_01_01_1970.' + '.$days_from_1970.' Days';
+		
+		$loan_approval_date = date("d/m/Y",strtotime($loan_approval_date_add_days));
+		return $loan_approval_date;
+	}
+}

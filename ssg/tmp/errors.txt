@@ -1,0 +1,53 @@
+2016-06-12 18:13:26 - Undefined offset: -1 common.php : 56
+2016-06-12 18:19:45 - Undefined variable: agency_id common.php : 56
+2016-06-12 18:19:45 - Undefined variable: agency_id common.php : 56
+2016-06-12 18:19:52 - Invalid argument supplied for foreach() common.php : 56
+2016-06-12 18:19:56 - Undefined offset: -1 common.php : 56
+2016-06-12 18:21:59 - Invalid argument supplied for foreach() common.php : 56
+2016-06-12 18:23:47 - Undefined offset: -1 common.php : 56
+2016-06-12 18:27:09 - Undefined offset: -1 common.php : 56
+2016-06-12 18:27:29 - Undefined offset: -1 common.php : 56
+2016-06-12 18:27:50 - Undefined offset: -1 common.php : 56
+2016-06-12 18:30:00 - Undefined offset: -1 common.php : 56
+2016-06-12 18:30:30 - Undefined offset: -1 common.php : 56
+2016-06-12 18:32:49 - Invalid argument supplied for foreach() common.php : 56
+2016-06-12 18:32:57 - Illegal string offset 'loan_id' common.php : 56
+2016-06-12 18:32:57 - Illegal string offset 'guarantor_id' common.php : 56
+2016-06-12 18:32:57 - Illegal string offset 'vehicle_id' common.php : 56
+2016-06-12 18:32:57 - Illegal string offset 'loan_id' common.php : 56
+2016-06-12 18:33:14 - Invalid argument supplied for foreach() common.php : 56
+2016-06-12 18:33:23 - Cannot modify header information - headers already sent by (output started at /home/mostpatel/public_html/nagnathfinance.com/ssg/inc/header.php:19) common.php : 56
+2016-06-12 18:33:23 - Undefined variable: seize common.php : 56
+2016-06-12 18:33:23 - Undefined variable: seize common.php : 56
+2016-06-12 18:33:23 - Undefined variable: seize common.php : 56
+2016-06-12 18:33:23 - Undefined variable: no_of_legal_notice common.php : 56
+2016-06-12 18:33:23 - Undefined variable: vehicle common.php : 56
+2016-06-12 18:33:23 - Undefined variable: customer_id common.php : 56
+2016-06-12 18:33:23 - Undefined variable: guarantor common.php : 56
+2016-06-12 18:33:23 - Undefined variable: guarantor common.php : 56
+2016-06-12 18:33:23 - Undefined variable: customer_id common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'file_status' common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'file_status' common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'file_status' common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'file_status' common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'file_status' common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'file_status' common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'agency_id' common.php : 56
+2016-06-12 18:33:23 - Undefined variable: customer_id common.php : 56
+2016-06-12 18:33:23 - Undefined variable: remarks common.php : 56
+2016-06-12 18:33:23 - Undefined variable: customer_id common.php : 56
+2016-06-12 18:33:23 - Undefined variable: customer_id common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'file_status' common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'file_status' common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'file_status' common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'file_status' common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'file_status' common.php : 56
+2016-06-12 18:33:23 - Undefined variable: settle_file common.php : 56
+2016-06-12 18:33:23 - Illegal string offset 'agency_id' common.php : 56
+2016-06-12 18:33:26 - Illegal string offset 'loan_id' common.php : 56
+2016-06-12 18:33:26 - Illegal string offset 'guarantor_id' common.php : 56
+2016-06-12 18:33:26 - Illegal string offset 'vehicle_id' common.php : 56
+2016-06-12 18:33:26 - Illegal string offset 'loan_id' common.php : 56
+2016-06-12 18:33:36 - Invalid argument supplied for foreach() common.php : 56
+2016-06-12 18:33:40 - Invalid argument supplied for foreach() common.php : 56
+2016-06-12 18:33:44 - Undefined offset: -1 common.php : 56

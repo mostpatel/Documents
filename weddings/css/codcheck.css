@@ -1,0 +1,24 @@
+@charset "utf-8";
+/**
+ * COD Check CSS
+ *
+ * @category    CSS
+ * @package     Gremlin_Codcheck
+ * @author      Junaid Bhura <info@gremlin.io>
+ */
+
+#gremlin-codcheck {
+	padding: 15px;
+	border: 1px solid #CCC;
+	margin-bottom: 15px;
+}
+	#gremlin-codcheck .input-text {
+		width: 100px;
+	}
+	#gremlin-codcheck .cod-available,
+	#gremlin-codcheck .cod-not-available,
+	#gremlin-codcheck .cod-validation,
+	#gremlin-codcheck .cod-error,
+	#gremlin-codcheck .loading-spinner {
+		display: none;
+	}

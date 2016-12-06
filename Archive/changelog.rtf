@@ -1,0 +1,406 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red215\green215\blue215;\red15\green112\blue1;\red223\green223\blue223;
+\red0\green20\blue69;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww13100\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 17th November 2014\
+\
+\ul Code Changes : \ulnone \
+\
+\'93Data From\'94 Field in Extra Customer Detail Form\
+Settings for Add/Edit/Delete \'93Data From\'94\
+data-from-functions.php in lib folder\
+changes in extra-customer-details-functions.php in lib folder\
+changes in index.php of customer file and customer extra details folder\
+changes on customerDetails.php page in customer folder\
+\
+\ul DB changes : \ulnone  \
+\
+NEW TABLE\
+ems_data_from table\
+\
+OLD TABLE\
+data_from_id foreign key in ems_customer_extra details\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+19th November 2014  \
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+\cf0 \ul \ulc0 Code Changes : \ulnone \
+\
+relation-functions.php\
+Settings for Add/Edit/Delete \'93Relation\'94\
+Add a Family member Module\
+member-functions.php\
+\
+\
+\ul DB changes : \ulnone  \
+\
+NEW TABLE\
+ems_relations table\
+ems_customer_member table\
+ems_customer_member_contact_no table\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+27th November 2014  \
+\
+\ul Code Changes : \ulnone \
+\
+SMS Function in Reports\
+sms-functions.php in lib folder\
+\
+\ul DB changes : \ulnone  \
+\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+5th December 2014\
+\
+\ul Code Changes : \ulnone \
+\
+\
+\
+\ul DB changes : \ulnone  \
+\
+NEW TABLE\
+\
+OLD TABLE\
+gender field in ems_customer_member after member_dob with default value=-1, 0=male, 1=female\
+\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+25th December 2014\
+\
+\ul Code Changes : \ulnone \
+\
+\
+\
+\ul DB changes : \ulnone  \
+\
+NEW TABLE\
+\
+OLD TABLE\
+\
+add purchase_date after is_bought  field, type=datetime\
+ems-follow_up ma enquiry_form_id on DELETE CASCADE from RESTRICT\
+ems_customer_member ma customer_id on DELETE CASCADE from RESTRICT\
+ems_invoice_customer ma customer_id on DELETE CASCADE from RESTRICT\
+ems_rel_attr_type_sup_cat ma super_cat_id on DELETE CASCADE from RESTRICT \
+\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+12th December 2014\
+\
+\ul Code Changes : \ulnone \
+\
+updateEnquiryDateFromDateAdded(); in enquiry-functions.php File\
+\
+\
+\ul DB changes : \ulnone  \
+\
+NEW TABLE\
+\
+OLD TABLE\
+\
+Add enquiry_date field after is_bought field in ems_enquiry_form with default 1970-01-01 00:00:00\
+\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+\
+27th January 2015\
+\
+\ul Code Changes : \ulnone \
+\
+insert Admin Function\
+Add Admin Users Folder  in Settings\
+\
+\
+\ul DB changes : \ulnone  \
+\
+NEW TABLE\
+\
+OLD TABLE\
+\
+\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+26th February 2015\
+\
+\ul Code Changes : \ulnone \
+\
+updateCurrentLeadHolder() function in enquiry-functions.php\
+\
+Changes In enquiry-functions.php, customer/details.php, \
+\
+New Code : customer/assign_to \
+\
+\
+\ul DB changes : \ulnone  \
+\
+NEW TABLE\
+\
+ems_sms_sent_report \
+ems_team\
+ems_rel_team_admin_user\
+ems_rel_team_team_leader\
+\pard\pardeftab720
+\cf0 ems_rel_enquiry_assignee_history\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+\cf0 \
+OLD TABLE\
+\
+current_lead_holder field after created_by in ms_enquiry_form table\
+\
+\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+31st March 2015\
+\
+\ul Code Changes : \ulnone \
+\
+\
+\ul DB changes : \ulnone  \
+\
+NEW TABLE\
+\
+OLD TABLE\
+\
+In ems_not_bought enquiry_form_id on DELETE change to CASCADE\
+\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+20th April 2015\
+\
+\ul Code Changes : \
+\
+\ulnone our-company-functions.php\
+\
+\
+\ul DB changes : \ulnone  \
+\
+NEW TABLE\
+\
+ems_lead_remainder to be added\
+ems_prefix to be added\
+ems_ab_booking_form\
+ems_rel_booking_form_member_customer_details\
+ems_quotes\
+ems_quotes_settings\
+\
+OLD TABLE\
+\
+add prefix_id as a foreign key in ems_customer table\
+changes in ems_our_company : enquiry_id_counter (varchar) & enquiry_id_reset_date \
+customer_nationality in ems_customer_extra_details\
+member_narionality in ems_customer_member table\
+member_id in ems_customer_proof\
+\pard\pardeftab720
+
+\b\fs26 \cf0 \cb2 \expnd0\expndtw0\kerning0
+unique_enquiry_id in ms_enquiry_form\
+ems_customer_member relation_id = NULL \
+decline_id in 
+\f1\b0\fs28 \cf3 \cb4 \expnd0\expndtw0\kerning0
+ems_not_bought allow NULL and Default NULL\
+\cf5 Allow customer_prrof_id NULL in ems_rel_booking_form_member_customer_details
+\f0\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+\cf0 \
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+\
+13th July 2015\
+\
+\ul Code Changes : \
+\
+\ulnone \
+\
+\
+\ul DB changes : \ulnone  \
+\
+NEW TABLE\
+\
+\pard\pardeftab720
+
+\f1\fs28 \cf5 \cb4 \expnd0\expndtw0\kerning0
+ems_customer_group
+\f0\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\fs28 \cf0 ems_enquiry_group\
+\pard\pardeftab720
+
+\f1 \cf3 \cb4 \expnd0\expndtw0\kerning0
+ems_rel_enquiry_group\
+ems_rel_customer_group\
+ems_city_area
+\f0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\fs24 \cf0 \
+\
+OLD TABLE\
+\
+Allow customer_address in extra details table NULL By default\
+Add area_id field after city_id in extra_customer_details\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+\
+17th August 2015\
+\
+\ul Code Changes : \
+\
+\ulnone \
+\
+\
+\ul DB changes : \ulnone  \
+\
+NEW TABLE\
+\
+\pard\pardeftab720
+\cf0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\fs28 \cf0 ems_customer_note\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\fs24 \cf0 \
+\
+OLD TABLE\
+\
+\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+1st September 2015\
+\
+\ul Code Changes : \
+\
+\ulnone \
+\
+\
+\ul DB changes : \ulnone  \
+\
+\
+\
+\pard\pardeftab720
+\cf0 NEW TABLE\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\fs28 \cf0 ems_vist\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\fs24 \cf0 \
+\
+OLD TABLE\
+\
+\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+30th September 2015\
+\
+\ul Code Changes : \
+\
+\ulnone \
+\
+\
+\ul DB changes : \ulnone  \
+\
+\
+\
+\pard\pardeftab720
+\cf0 NEW TABLE\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\fs28 \cf0 ems_follow_up_type\
+\pard\pardeftab720
+
+\f1 \cf3 \cb4 \expnd0\expndtw0\kerning0
+ems_sub_cat_suppliers\
+ems_rel_sub_cat_supplier
+\f0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\fs24 \cf0 \
+\
+OLD TABLE\
+\
+ADD FIELD follow_up_type_id in ems_follow_up\
+ADD ASSIGN_TO in ems_ac_main_settings\
+ADD tour_ending_date in ems_enquiry_form\
+\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+30th November 2015\
+\
+\ul Code Changes : \
+\
+\ulnone \
+\
+\
+\ul DB changes : \ulnone  \
+\
+\
+\
+\pard\pardeftab720
+\cf0 NEW TABLE\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\fs28 \cf0 ems_refrence_name
+\fs24 \
+\
+OLD TABLE\
+\
+\pard\pardeftab720
+
+\f1\fs28 \cf3 \cb4 \expnd0\expndtw0\kerning0
+add refrence_id as a foreign key in ems_enquiry_form and allow NULL
+\f0\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+\cf0 \
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+03 FEB 2016\
+\
+add reference in ems_customer_type\
+add quantity_box in ms_main_settings\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+10 FEB 2016\
+\
+ems_product_unit new table\
+product_unit_id foreign key in 
+\f1\fs28 \cf3 \cb4 \expnd0\expndtw0\kerning0
+ems_rel_subCategory_enquiry_form\
+add single_multiple in \cf3 \cb4 \expnd0\expndtw0\kerning0
+ems_attribute_type table\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+\
+10 MAY 2016\
+\
+add show_prefix in ems_ac_main_settings}

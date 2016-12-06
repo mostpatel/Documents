@@ -1,0 +1,89 @@
+.mainDiv
+{
+position:relative;	
+height:100%;
+width:90%;
+margin-left:5%;
+}
+
+.divOne
+{
+	position:relative;
+	height:170px;
+	width:100%;
+	
+	
+}
+
+.date
+{
+	position:relative;
+	margin-left:70%;
+	
+	width:30%;
+	height:30px;
+}
+
+.from
+{
+	position:relative;
+	width:100%;
+	height:125px;
+	
+	margin-top:10px;
+}
+
+.divTwo
+{
+	position:relative;
+	height:140px;
+	width:100%;
+	
+	margin-top:30px;
+}
+
+.to
+{
+	position:relative;
+	width:100%;
+	height:125px;
+	background:#FFF;
+	margin-top:10px;
+}
+
+.divThree
+{
+	position:relative;
+	
+	width:100%;
+	margin-top:30px;
+}
+
+.threeStarting
+{
+	position:relative;
+	width:100%;
+	margin-bottom:20px;
+}
+
+.threeEnding
+{
+	position:relative;
+	width:100%;
+	margin-bottom:20px;
+	margin-top:20px;
+}
+
+table tr td
+{
+	padding-bottom:10px;
+}
+
+.divFour
+{
+	position:relative;
+	min-height:340px;
+	width:100%;
+	margin-top:30px;
+	
+}

@@ -1,0 +1,2071 @@
+2016-06-15 09:55:15 - Undefined variable: selectedLink common.php : 130
+2016-06-15 09:55:15 - Undefined variable: selectedLink common.php : 130
+2016-06-15 09:55:22 - Undefined variable: results common.php : 130
+2016-06-15 09:55:24 - Undefined variable: results common.php : 130
+2016-06-15 09:55:26 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:55:26 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:55:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:55:37 - Undefined index: customer_no common.php : 130
+2016-06-15 09:55:37 - Undefined variable: agency_id common.php : 130
+2016-06-15 09:55:37 - Undefined variable: id common.php : 130
+2016-06-15 09:55:37 - Missing argument 6 for addCustomerProof(), called in /Library/WebServer/Documents/edms/lib/customer-functions.php on line 153 and defined common.php : 130
+2016-06-15 09:55:37 - Undefined index: customer_group_id common.php : 130
+2016-06-15 09:55:37 - Undefined index: broker_group_id common.php : 130
+2016-06-15 09:55:37 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:55:37 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Undefined variable: head_type common.php : 130
+2016-06-15 09:55:37 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:55:37 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:55:39 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:55:39 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:55:39 - Undefined variable: emi common.php : 130
+2016-06-15 09:55:39 - Undefined variable: balance common.php : 130
+2016-06-15 09:55:39 - Undefined variable: default_spares_sales common.php : 130
+2016-06-15 09:55:39 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:55:43 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:55:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:55:46 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:55:54 - Undefined index: use_barcode common.php : 130
+2016-06-15 09:55:54 - Undefined index: barcode_prefix common.php : 130
+2016-06-15 09:55:54 - Undefined index: barcode_counter common.php : 130
+2016-06-15 09:55:54 - Undefined index: item_barcode common.php : 130
+2016-06-15 09:55:54 - Undefined index: gen_barcode common.php : 130
+2016-06-15 09:55:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:00 - Undefined index: chasis_no common.php : 130
+2016-06-15 09:56:00 - Undefined index: engine_no common.php : 130
+2016-06-15 09:56:00 - Undefined index: reg_no common.php : 130
+2016-06-15 09:56:00 - Undefined index: financer_name common.php : 130
+2016-06-15 09:56:00 - Undefined index: item_name common.php : 130
+2016-06-15 09:56:00 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:00 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:00 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:00 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:01 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:01 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:01 - Undefined variable: emi common.php : 130
+2016-06-15 09:56:01 - Undefined variable: balance common.php : 130
+2016-06-15 09:56:01 - Undefined variable: default_spares_sales common.php : 130
+2016-06-15 09:56:01 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:12 - Undefined index: chasis_no common.php : 130
+2016-06-15 09:56:12 - Undefined index: engine_no common.php : 130
+2016-06-15 09:56:12 - Undefined index: reg_no common.php : 130
+2016-06-15 09:56:12 - Undefined index: financer_name common.php : 130
+2016-06-15 09:56:12 - Undefined index: item_name common.php : 130
+2016-06-15 09:56:12 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:12 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:12 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:12 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:13 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:13 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:13 - Undefined variable: emi common.php : 130
+2016-06-15 09:56:13 - Undefined variable: balance common.php : 130
+2016-06-15 09:56:13 - Undefined variable: default_spares_sales common.php : 130
+2016-06-15 09:56:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:17 - Undefined index: ns_item_id common.php : 130
+2016-06-15 09:56:17 - Undefined index: ns_item_desc common.php : 130
+2016-06-15 09:56:17 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:17 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:17 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:17 - Undefined variable: barcode common.php : 130
+2016-06-15 09:56:17 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:17 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:17 - Undefined variable: emi common.php : 130
+2016-06-15 09:56:17 - Undefined variable: balance common.php : 130
+2016-06-15 09:56:17 - Undefined variable: default_spares_sales common.php : 130
+2016-06-15 09:56:17 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:17 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:19 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:19 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:19 - Undefined variable: customer_id common.php : 130
+2016-06-15 09:56:19 - Undefined variable: emi common.php : 130
+2016-06-15 09:56:19 - Undefined variable: balance common.php : 130
+2016-06-15 09:56:19 - Undefined variable: invoice_counter common.php : 130
+2016-06-15 09:56:19 - Undefined index: tax_details common.php : 130
+2016-06-15 09:56:19 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:19 - Undefined index: tax_amount common.php : 130
+2016-06-15 09:56:19 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:19 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:19 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:19 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:19 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:19 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:19 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:24 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:24 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:28 - Undefined index: invoice_note common.php : 130
+2016-06-15 09:56:28 - Undefined index: sales_ledger_id common.php : 130
+2016-06-15 09:56:28 - Undefined index: tax_class_id common.php : 130
+2016-06-15 09:56:28 - Undefined index: ns_sales_ledger_id common.php : 130
+2016-06-15 09:56:28 - Undefined index: ns_tax_class_id common.php : 130
+2016-06-15 09:56:28 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:28 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:28 - Undefined variable: delivery_challan_id common.php : 130
+2016-06-15 09:56:28 - Undefined variable: barcode common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Undefined variable: customer_id common.php : 130
+2016-06-15 09:56:28 - Undefined variable: emi common.php : 130
+2016-06-15 09:56:28 - Undefined variable: balance common.php : 130
+2016-06-15 09:56:28 - Undefined variable: invoice_counter common.php : 130
+2016-06-15 09:56:28 - Undefined variable: challan_id common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Undefined variable: challan_id common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Undefined variable: challan_id common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Undefined variable: challan_id common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:28 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:32 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:32 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:32 - Undefined variable: customer_id common.php : 130
+2016-06-15 09:56:32 - Undefined variable: emi common.php : 130
+2016-06-15 09:56:32 - Undefined variable: balance common.php : 130
+2016-06-15 09:56:32 - Undefined variable: invoice_counter common.php : 130
+2016-06-15 09:56:32 - Undefined index: tax_details common.php : 130
+2016-06-15 09:56:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:32 - Undefined index: tax_amount common.php : 130
+2016-06-15 09:56:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-15 09:56:34 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:34 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:34 - Undefined variable: emi common.php : 130
+2016-06-15 09:56:34 - Undefined variable: balance common.php : 130
+2016-06-15 09:56:34 - Undefined variable: default_spares_sales common.php : 130
+2016-06-15 09:56:34 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:34 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:34 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:34 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: head_type common.php : 130
+2016-06-15 09:56:34 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:56:34 - Undefined variable: our_company_id common.php : 130
+2016-06-15 09:58:59 - Undefined variable: sales_id common.php : 130
+2016-06-15 09:58:59 - Undefined variable: to_customer_id common.php : 130
+2016-06-15 09:58:59 - Undefined variable: sales_id common.php : 130
+2016-06-15 09:58:59 - Undefined variable: remaining_amount common.php : 130
+2016-06-15 09:58:59 - Undefined variable: balance common.php : 130
+2016-06-15 09:58:59 - Undefined variable: to_ledger_id common.php : 130
+2016-06-15 09:58:59 - Undefined variable: to_customer_id common.php : 130
+2016-06-15 09:58:59 - Undefined variable: sales_id common.php : 130
+2016-06-15 09:59:08 - Undefined variable: receipt_ids common.php : 130
+2016-06-15 11:27:16 - Undefined variable: sales_id common.php : 130
+2016-06-15 11:27:16 - Undefined variable: to_customer_id common.php : 130
+2016-06-15 11:27:16 - Undefined variable: sales_id common.php : 130
+2016-06-15 11:27:16 - Undefined variable: remaining_amount common.php : 130
+2016-06-15 11:27:16 - Undefined variable: balance common.php : 130
+2016-06-15 11:27:16 - Undefined variable: to_ledger_id common.php : 130
+2016-06-15 11:27:16 - Undefined variable: to_customer_id common.php : 130
+2016-06-15 11:27:16 - Undefined variable: sales_id common.php : 130
+2016-06-17 11:51:36 - Undefined variable: selectedLink common.php : 130
+2016-06-17 11:51:36 - Undefined variable: selectedLink common.php : 130
+2016-06-17 11:52:04 - Undefined variable: sales_id common.php : 130
+2016-06-17 11:52:04 - Undefined variable: to_customer_id common.php : 130
+2016-06-17 11:52:04 - Undefined variable: sales_id common.php : 130
+2016-06-17 11:52:04 - Undefined variable: remaining_amount common.php : 130
+2016-06-17 11:52:04 - Undefined variable: balance common.php : 130
+2016-06-17 11:52:04 - Undefined variable: to_ledger_id common.php : 130
+2016-06-17 11:52:04 - Undefined variable: to_customer_id common.php : 130
+2016-06-17 11:52:04 - Undefined variable: sales_id common.php : 130
+2016-06-17 11:52:19 - Undefined index: pincode common.php : 130
+2016-06-17 11:52:19 - Undefined index: tax_class_id common.php : 130
+2016-06-17 11:52:24 - Undefined variable: emi common.php : 130
+2016-06-17 11:52:24 - Undefined variable: balance common.php : 130
+2016-06-17 11:52:51 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:52:51 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:52:51 - Undefined variable: accounts_settings common.php : 130
+2016-06-17 11:52:51 - Undefined variable: accounts_settings common.php : 130
+2016-06-17 11:52:51 - Undefined variable: emi common.php : 130
+2016-06-17 11:52:51 - Undefined variable: balance common.php : 130
+2016-06-17 11:52:52 - Undefined variable: sales_id common.php : 130
+2016-06-17 11:52:52 - Undefined variable: to_customer_id common.php : 130
+2016-06-17 11:52:52 - Undefined variable: sales_id common.php : 130
+2016-06-17 11:52:52 - Undefined variable: remaining_amount common.php : 130
+2016-06-17 11:52:52 - Undefined variable: balance common.php : 130
+2016-06-17 11:52:52 - Undefined variable: to_ledger_id common.php : 130
+2016-06-17 11:52:52 - Undefined variable: to_customer_id common.php : 130
+2016-06-17 11:52:52 - Undefined variable: remaining_amount common.php : 130
+2016-06-17 11:52:52 - Undefined variable: balance common.php : 130
+2016-06-17 11:52:52 - Undefined variable: to_ledger_id common.php : 130
+2016-06-17 11:52:52 - Undefined variable: to_customer_id common.php : 130
+2016-06-17 11:53:14 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:53:14 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:53:14 - Undefined variable: sales_id common.php : 130
+2016-06-17 11:53:14 - Undefined variable: to_customer_id common.php : 130
+2016-06-17 11:53:14 - Undefined variable: sales_id common.php : 130
+2016-06-17 11:53:14 - Undefined variable: remaining_amount common.php : 130
+2016-06-17 11:53:14 - Undefined variable: balance common.php : 130
+2016-06-17 11:53:14 - Undefined variable: to_ledger_id common.php : 130
+2016-06-17 11:53:14 - Undefined variable: to_customer_id common.php : 130
+2016-06-17 11:53:14 - Undefined variable: remaining_amount common.php : 130
+2016-06-17 11:53:14 - Undefined variable: balance common.php : 130
+2016-06-17 11:53:14 - Undefined variable: to_ledger_id common.php : 130
+2016-06-17 11:53:14 - Undefined variable: to_customer_id common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:17 - Undefined index: ledgerEntriess common.php : 130
+2016-06-17 11:53:17 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:25 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:25 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:25 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:25 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:25 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:25 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:25 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:25 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:53:25 - Undefined variable: i common.php : 130
+2016-06-17 11:53:25 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:53:25 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:53:25 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:53:25 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:04 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:04 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:04 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:04 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:04 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:04 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:04 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:04 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:04 - Undefined variable: i common.php : 130
+2016-06-17 11:54:04 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:04 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:04 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:04 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:21 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:21 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:21 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:21 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:21 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:21 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:21 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:21 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:21 - Undefined variable: i common.php : 130
+2016-06-17 11:54:21 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:21 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:21 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:21 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:29 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:29 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:29 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:29 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:29 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:29 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:29 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:29 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:29 - Undefined variable: i common.php : 130
+2016-06-17 11:54:29 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:29 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:29 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:29 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:42 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:42 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:42 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:42 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:42 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:42 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:42 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:42 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:54:42 - Undefined variable: i common.php : 130
+2016-06-17 11:54:42 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:42 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:42 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:54:42 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:55:14 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:55:14 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:55:14 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:55:14 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:55:14 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:55:14 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:55:14 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:55:14 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 11:55:14 - Undefined variable: i common.php : 130
+2016-06-17 11:55:14 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:55:14 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:55:14 - Undefined variable: our_company_id common.php : 130
+2016-06-17 11:55:14 - Undefined variable: our_company_id common.php : 130
+2016-06-17 16:41:30 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 16:41:30 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 16:41:30 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 16:41:30 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 16:41:30 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 16:41:30 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 16:41:30 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 16:41:30 - in_array() expects parameter 2 to be array, null given common.php : 130
+2016-06-17 16:41:30 - Undefined variable: i common.php : 130
+2016-06-17 16:41:30 - Undefined variable: our_company_id common.php : 130
+2016-06-17 16:41:30 - Undefined variable: our_company_id common.php : 130
+2016-06-17 16:41:30 - Undefined variable: our_company_id common.php : 130
+2016-06-17 16:41:30 - Undefined variable: our_company_id common.php : 130
+2016-06-24 14:26:10 - Undefined variable: selectedLink common.php : 130
+2016-06-24 14:26:10 - Undefined variable: selectedLink common.php : 130
+2016-06-24 14:27:00 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:27:00 - Missing argument 1 for getUnPaidReceiptsBeforeDate(), called in /Library/WebServer/Documents/edms/admin/index.php on line 609 and defined common.php : 130
+2016-06-24 14:27:00 - Undefined variable: date common.php : 130
+2016-06-24 14:27:00 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:27:18 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:27:25 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:27:46 - Undefined index: use_barcode common.php : 130
+2016-06-24 14:27:46 - Undefined index: barcode_prefix common.php : 130
+2016-06-24 14:27:46 - Undefined index: barcode_counter common.php : 130
+2016-06-24 14:27:46 - Undefined index: item_barcode common.php : 130
+2016-06-24 14:27:46 - Undefined index: gen_barcode common.php : 130
+2016-06-24 14:27:46 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:28:01 - Undefined index: use_barcode common.php : 130
+2016-06-24 14:28:01 - Undefined index: barcode_prefix common.php : 130
+2016-06-24 14:28:01 - Undefined index: barcode_counter common.php : 130
+2016-06-24 14:28:01 - Undefined index: item_barcode common.php : 130
+2016-06-24 14:28:01 - Undefined index: gen_barcode common.php : 130
+2016-06-24 14:28:01 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:28:23 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:28:44 - Undefined index: use_barcode common.php : 130
+2016-06-24 14:28:44 - Undefined index: barcode_prefix common.php : 130
+2016-06-24 14:28:44 - Undefined index: barcode_counter common.php : 130
+2016-06-24 14:28:44 - Undefined index: item_barcode common.php : 130
+2016-06-24 14:28:44 - Undefined index: gen_barcode common.php : 130
+2016-06-24 14:28:44 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:28:49 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:28:49 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:28:56 - Undefined index: item_unit_id common.php : 130
+2016-06-24 14:28:56 - Undefined index: manufacturer_id common.php : 130
+2016-06-24 14:28:56 - Undefined index: mfg_item_code common.php : 130
+2016-06-24 14:28:56 - Undefined index: dealer_price common.php : 130
+2016-06-24 14:28:56 - Undefined index: opening_quantity common.php : 130
+2016-06-24 14:28:56 - Undefined index: opening_rate common.php : 130
+2016-06-24 14:28:56 - Undefined index: min_quantity common.php : 130
+2016-06-24 14:28:56 - Undefined index: godown_id common.php : 130
+2016-06-24 14:28:56 - Missing argument 17 for insertInventoryItem(), called in /Library/WebServer/Documents/edms/admin/settings/inventory_settings/nonStock_settings/index.php on line 44 and defined common.php : 130
+2016-06-24 14:28:56 - Missing argument 18 for insertInventoryItem(), called in /Library/WebServer/Documents/edms/admin/settings/inventory_settings/nonStock_settings/index.php on line 44 and defined common.php : 130
+2016-06-24 14:28:56 - Missing argument 19 for insertInventoryItem(), called in /Library/WebServer/Documents/edms/admin/settings/inventory_settings/nonStock_settings/index.php on line 44 and defined common.php : 130
+2016-06-24 14:28:56 - Missing argument 20 for insertInventoryItem(), called in /Library/WebServer/Documents/edms/admin/settings/inventory_settings/nonStock_settings/index.php on line 44 and defined common.php : 130
+2016-06-24 14:28:56 - Undefined variable: barcode_array common.php : 130
+2016-06-24 14:28:56 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:28:56 - Undefined variable: tax_group common.php : 130
+2016-06-24 14:31:38 - Undefined index: tax_class_id common.php : 130
+2016-06-24 14:31:46 - Undefined index: tax_class_id common.php : 130
+2016-06-24 14:31:53 - Undefined index: tax_class_id common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:31:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 14:59:52 - Undefined variable: selectedLink common.php : 130
+2016-06-24 14:59:52 - Undefined variable: selectedLink common.php : 130
+2016-06-24 15:01:03 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:03 - Missing argument 1 for getUnPaidReceiptsBeforeDate(), called in /Library/WebServer/Documents/edms/admin/index.php on line 609 and defined common.php : 130
+2016-06-24 15:01:03 - Undefined variable: date common.php : 130
+2016-06-24 15:01:03 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:06 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:06 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:24 - Undefined index: customer_no common.php : 130
+2016-06-24 15:01:24 - Undefined variable: agency_id common.php : 130
+2016-06-24 15:01:24 - Undefined variable: id common.php : 130
+2016-06-24 15:01:24 - Missing argument 6 for addCustomerProof(), called in /Library/WebServer/Documents/edms/lib/customer-functions.php on line 153 and defined common.php : 130
+2016-06-24 15:01:24 - Undefined index: customer_group_id common.php : 130
+2016-06-24 15:01:24 - Undefined index: broker_group_id common.php : 130
+2016-06-24 15:01:24 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:01:24 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Undefined variable: head_type common.php : 130
+2016-06-24 15:01:24 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:24 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:01:32 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Undefined variable: vehicle common.php : 130
+2016-06-24 15:01:32 - Undefined variable: vehicle common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:01:32 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:04 - Undefined index: vehicleProofImg common.php : 130
+2016-06-24 15:02:04 - Undefined variable: scanImg common.php : 130
+2016-06-24 15:02:04 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:02:04 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:02:05 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:02:05 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Undefined variable: head_type common.php : 130
+2016-06-24 15:02:05 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:05 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:02:13 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:02:13 - Undefined variable: invoice_counter common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:02:13 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:03:31 - Undefined offset: 1 common.php : 130
+2016-06-24 15:03:31 - Undefined offset: 2 common.php : 130
+2016-06-24 15:03:31 - Undefined offset: 1 common.php : 130
+2016-06-24 15:03:31 - Undefined offset: 2 common.php : 130
+2016-06-24 15:04:01 - Undefined offset: 1 common.php : 130
+2016-06-24 15:04:01 - Undefined offset: 2 common.php : 130
+2016-06-24 15:04:02 - Undefined offset: 1 common.php : 130
+2016-06-24 15:04:02 - Undefined offset: 2 common.php : 130
+2016-06-24 15:04:16 - Undefined index: service_check common.php : 130
+2016-06-24 15:04:16 - Undefined variable: bay_out common.php : 130
+2016-06-24 15:04:16 - Undefined variable: actual_delivery common.php : 130
+2016-06-24 15:04:16 - Missing argument 5 for checkForSalesItemsNSInArray(), called in /Library/WebServer/Documents/edms/lib/addNew-job-card-functions.php on line 52 and defined common.php : 130
+2016-06-24 15:04:16 - Missing argument 6 for checkForSalesItemsNSInArray(), called in /Library/WebServer/Documents/edms/lib/addNew-job-card-functions.php on line 52 and defined common.php : 130
+2016-06-24 15:04:16 - Missing argument 7 for checkForSalesItemsNSInArray(), called in /Library/WebServer/Documents/edms/lib/addNew-job-card-functions.php on line 52 and defined common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Missing argument 5 for checkForSalesItemsNSInArray(), called in /Library/WebServer/Documents/edms/lib/addNew-job-card-functions.php on line 53 and defined common.php : 130
+2016-06-24 15:04:16 - Missing argument 6 for checkForSalesItemsNSInArray(), called in /Library/WebServer/Documents/edms/lib/addNew-job-card-functions.php on line 53 and defined common.php : 130
+2016-06-24 15:04:16 - Missing argument 7 for checkForSalesItemsNSInArray(), called in /Library/WebServer/Documents/edms/lib/addNew-job-card-functions.php on line 53 and defined common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: ns_type common.php : 130
+2016-06-24 15:04:16 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:04:16 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:04:16 - Undefined variable: delivery_challan_id common.php : 130
+2016-06-24 15:04:16 - Undefined variable: barcode common.php : 130
+2016-06-24 15:04:16 - Undefined variable: barcode common.php : 130
+2016-06-24 15:04:16 - Undefined variable: our_rate common.php : 130
+2016-06-24 15:04:17 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:04:17 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:04:17 - Undefined offset: 0 common.php : 130
+2016-06-24 15:04:17 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:17 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:17 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:17 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:04:17 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:04:17 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:04:26 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:04:26 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:04:26 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:26 - Missing argument 1 for getUnPaidReceiptsBeforeDate(), called in /Library/WebServer/Documents/edms/admin/index.php on line 609 and defined common.php : 130
+2016-06-24 15:04:26 - Undefined variable: date common.php : 130
+2016-06-24 15:04:26 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:33 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:04:33 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:04:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:33 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:34 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:43 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:04:43 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:04:43 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:43 - Missing argument 1 for getUnPaidReceiptsBeforeDate(), called in /Library/WebServer/Documents/edms/admin/index.php on line 609 and defined common.php : 130
+2016-06-24 15:04:43 - Undefined variable: date common.php : 130
+2016-06-24 15:04:43 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:04:47 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:04:47 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:05:09 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:05:09 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:05:09 - Undefined offset: 0 common.php : 130
+2016-06-24 15:05:09 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:05:09 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:05:09 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:05:09 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:05:09 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:05:09 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:05:12 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:05:12 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:05:12 - Undefined variable: sales common.php : 130
+2016-06-24 15:05:12 - Undefined variable: sales common.php : 130
+2016-06-24 15:05:45 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:05:45 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:05:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:05:53 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:05:53 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:05:53 - Undefined offset: 0 common.php : 130
+2016-06-24 15:05:53 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:05:53 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:05:53 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:05:53 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:05:53 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:05:53 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:05:58 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:05:58 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Undefined variable: head_type common.php : 130
+2016-06-24 15:05:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:05:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:05 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:05 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:15 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:15 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:17 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:17 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:17 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:17 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:45 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Undefined variable: vehicle common.php : 130
+2016-06-24 15:06:45 - Undefined variable: vehicle common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:54 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:54 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Undefined variable: head_type common.php : 130
+2016-06-24 15:06:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:58 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:06:58 - Undefined variable: emi common.php : 130
+2016-06-24 15:06:58 - Undefined variable: balance common.php : 130
+2016-06-24 15:06:58 - Undefined variable: invoice_counter common.php : 130
+2016-06-24 15:06:58 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:06:58 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:02 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:07:02 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:07:12 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:44 - Undefined index: use_barcode common.php : 130
+2016-06-24 15:07:44 - Undefined index: barcode_prefix common.php : 130
+2016-06-24 15:07:44 - Undefined index: barcode_counter common.php : 130
+2016-06-24 15:07:44 - Undefined index: item_barcode common.php : 130
+2016-06-24 15:07:44 - Undefined index: gen_barcode common.php : 130
+2016-06-24 15:07:44 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:52 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:07:52 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:07:52 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:52 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:07:54 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:07:54 - Undefined variable: emi common.php : 130
+2016-06-24 15:07:54 - Undefined variable: balance common.php : 130
+2016-06-24 15:07:54 - Undefined variable: invoice_counter common.php : 130
+2016-06-24 15:07:54 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:54 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:07:59 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:07:59 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:08:38 - Undefined index: invoice_note common.php : 130
+2016-06-24 15:08:38 - Undefined index: sales_ledger_id common.php : 130
+2016-06-24 15:08:38 - Undefined index: tax_class_id common.php : 130
+2016-06-24 15:08:38 - Undefined index: ns_sales_ledger_id common.php : 130
+2016-06-24 15:08:38 - Undefined index: ns_tax_class_id common.php : 130
+2016-06-24 15:08:38 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:08:38 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:08:38 - Undefined variable: delivery_challan_id common.php : 130
+2016-06-24 15:08:38 - Undefined variable: barcode common.php : 130
+2016-06-24 15:08:38 - Undefined variable: tax_name common.php : 130
+2016-06-24 15:08:38 - Undefined variable: tax_name common.php : 130
+2016-06-24 15:08:38 - Undefined variable: tax_name common.php : 130
+2016-06-24 15:08:38 - Undefined variable: customer_id common.php : 130
+2016-06-24 15:08:38 - Undefined variable: emi common.php : 130
+2016-06-24 15:08:38 - Undefined variable: balance common.php : 130
+2016-06-24 15:08:38 - Undefined variable: invoice_counter common.php : 130
+2016-06-24 15:08:38 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:38 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:38 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:38 - Undefined variable: challan_id common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:38 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:08:40 - Undefined variable: job_card_id common.php : 130
+2016-06-24 15:08:40 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:08:40 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:08:40 - Undefined index: service_tax_no common.php : 130
+2016-06-24 15:08:40 - Undefined index: pan_no common.php : 130
+2016-06-24 15:09:31 - Undefined variable: total common.php : 130
+2016-06-24 15:09:31 - Undefined variable: paid common.php : 130
+2016-06-24 15:09:31 - Undefined variable: paid_other common.php : 130
+2016-06-24 15:09:31 - Undefined variable: we_paid common.php : 130
+2016-06-24 15:09:31 - Undefined variable: kasar_total common.php : 130
+2016-06-24 15:09:31 - Undefined variable: kasar_total_other common.php : 130
+2016-06-24 15:09:31 - Undefined variable: total common.php : 130
+2016-06-24 15:09:31 - Undefined variable: paid common.php : 130
+2016-06-24 15:09:31 - Undefined variable: paid_other common.php : 130
+2016-06-24 15:09:31 - Undefined variable: kasar_total common.php : 130
+2016-06-24 15:09:31 - Undefined variable: kasar_total_other common.php : 130
+2016-06-24 15:09:36 - Undefined variable: id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: customer_id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: customer_id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: customer_id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: customer_id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: area_array common.php : 130
+2016-06-24 15:09:36 - Undefined variable: agency_id_array common.php : 130
+2016-06-24 15:09:36 - Undefined variable: id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:09:36 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:16:52 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:16:52 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Undefined variable: head_type common.php : 130
+2016-06-24 15:16:52 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:22 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:22 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:22 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:22 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:22 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:22 - Undefined index: reg_no common.php : 130
+2016-06-24 15:17:22 - Missing argument 1 for getUnPaidReceiptsBeforeDate(), called in /Library/WebServer/Documents/edms/admin/index.php on line 609 and defined common.php : 130
+2016-06-24 15:17:22 - Undefined variable: date common.php : 130
+2016-06-24 15:17:22 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:45 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:48 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:48 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:48 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:48 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:48 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:48 - Undefined index: reg_no common.php : 130
+2016-06-24 15:17:48 - Missing argument 1 for getUnPaidReceiptsBeforeDate(), called in /Library/WebServer/Documents/edms/admin/index.php on line 609 and defined common.php : 130
+2016-06-24 15:17:48 - Undefined variable: date common.php : 130
+2016-06-24 15:17:48 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:49 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:49 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:49 - Undefined offset: 0 common.php : 130
+2016-06-24 15:17:49 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:49 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:49 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:49 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:17:49 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:17:49 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:17:54 - Undefined variable: customer common.php : 130
+2016-06-24 15:17:57 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:57 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:57 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:17:57 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:57 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:17:57 - Undefined index: reg_no common.php : 130
+2016-06-24 15:17:57 - Missing argument 1 for getUnPaidReceiptsBeforeDate(), called in /Library/WebServer/Documents/edms/admin/index.php on line 609 and defined common.php : 130
+2016-06-24 15:17:57 - Undefined variable: date common.php : 130
+2016-06-24 15:17:57 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:18:16 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:18:16 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:18:16 - Undefined index: next_service_date common.php : 130
+2016-06-24 15:18:39 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:18:39 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:18:39 - Undefined offset: 0 common.php : 130
+2016-06-24 15:18:39 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:18:39 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:18:39 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:18:39 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:18:39 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:18:39 - Undefined index: tax_amount common.php : 130
+2016-06-24 15:18:47 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:18:47 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:18:47 - Undefined index: next_service_date common.php : 130
+2016-06-24 15:19:17 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:19:17 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:19:17 - Invalid argument supplied for foreach() common.php : 130
+2016-06-24 15:19:17 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:19:17 - Undefined variable: our_company_id common.php : 130
+2016-06-24 15:19:17 - Undefined index: reg_no common.php : 130
+2016-06-24 15:19:17 - Missing argument 1 for getUnPaidReceiptsBeforeDate(), called in /Library/WebServer/Documents/edms/admin/index.php on line 609 and defined common.php : 130
+2016-06-24 15:19:17 - Undefined variable: date common.php : 130
+2016-06-24 15:19:17 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 12:48:39 - Undefined variable: selectedLink common.php : 130
+2016-06-28 12:48:39 - Undefined variable: selectedLink common.php : 130
+2016-06-28 12:48:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 12:48:45 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:48:45 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:48:45 - Undefined index: reg_no common.php : 130
+2016-06-28 12:48:45 - Missing argument 1 for getUnPaidReceiptsBeforeDate(), called in /Library/WebServer/Documents/edms/admin/index.php on line 609 and defined common.php : 130
+2016-06-28 12:48:45 - Undefined variable: date common.php : 130
+2016-06-28 12:48:45 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 12:49:14 - Undefined variable: oc_id_string_id common.php : 130
+2016-06-28 12:49:15 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 12:49:36 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:49:36 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Undefined variable: head_type common.php : 130
+2016-06-28 12:49:36 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 12:50:03 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:50:03 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Undefined variable: head_type common.php : 130
+2016-06-28 12:50:03 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 12:52:11 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:52:11 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Undefined variable: head_type common.php : 130
+2016-06-28 12:52:11 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 12:52:16 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:52:16 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:52:24 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:52:24 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:58:32 - Undefined variable: oc_id common.php : 130
+2016-06-28 12:58:32 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:58:32 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:58:35 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:58:35 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:58:37 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:58:37 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:37 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 12:58:49 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:58:49 - Undefined variable: our_company_id common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Undefined variable: head_type common.php : 130
+2016-06-28 12:58:49 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 13:01:44 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:01:44 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Undefined variable: head_type common.php : 130
+2016-06-28 13:01:44 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 13:05:11 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:05:11 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:11 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 13:05:19 - Undefined variable: balance common.php : 130
+2016-06-28 13:05:26 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:05:26 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:05:27 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:05:27 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:27 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 13:05:37 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:05:37 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Undefined variable: head_type common.php : 130
+2016-06-28 13:05:37 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 13:06:05 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:06:05 - Undefined variable: our_company_id common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Undefined variable: head_type common.php : 130
+2016-06-28 13:06:05 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 13:09:24 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 15:26:46 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 15:26:46 - Undefined variable: our_company_id common.php : 130
+2016-06-28 15:26:46 - Undefined variable: our_company_id common.php : 130
+2016-06-28 15:26:46 - Undefined index: reg_no common.php : 130
+2016-06-28 15:26:46 - Missing argument 1 for getUnPaidReceiptsBeforeDate(), called in /Library/WebServer/Documents/edms/admin/index.php on line 609 and defined common.php : 130
+2016-06-28 15:26:46 - Undefined variable: date common.php : 130
+2016-06-28 15:26:46 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 15:38:21 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 15:38:21 - Undefined variable: sql common.php : 130
+2016-06-28 15:38:39 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 15:38:56 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 15:38:59 - Undefined variable: oc_id_string_id common.php : 130
+2016-06-28 15:39:20 - Undefined variable: oc_id_string_id common.php : 130
+2016-06-28 15:39:46 - Undefined variable: oc_id_string_id common.php : 130
+2016-06-28 15:40:07 - Undefined variable: oc_id_string_id common.php : 130
+2016-06-28 15:40:07 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 15:40:17 - Undefined variable: oc_id_string_id common.php : 130
+2016-06-28 15:40:17 - Undefined variable: i common.php : 130
+2016-06-28 15:41:36 - Undefined variable: i common.php : 130
+2016-06-28 15:41:37 - Undefined variable: oc_id_string_id common.php : 130
+2016-06-28 15:41:37 - Undefined variable: i common.php : 130
+2016-06-28 15:43:12 - Undefined variable: oc_id_string_id common.php : 130
+2016-06-28 15:43:12 - Undefined variable: i common.php : 130
+2016-06-28 15:43:30 - Undefined variable: i common.php : 130
+2016-06-28 15:43:48 - Undefined variable: i common.php : 130
+2016-06-28 15:44:07 - Undefined variable: i common.php : 130
+2016-06-28 15:44:09 - Undefined variable: inventory_item common.php : 130
+2016-06-28 15:44:09 - Undefined index: tax_amount common.php : 130
+2016-06-28 15:44:09 - Undefined index: tax_group_id common.php : 130
+2016-06-28 15:44:09 - Undefined index: tax_amount common.php : 130
+2016-06-28 15:44:09 - Invalid argument supplied for foreach() common.php : 130
+2016-06-28 15:44:55 - Undefined variable: i common.php : 130

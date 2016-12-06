@@ -1,0 +1,111 @@
+.popupbox{width:100%;max-width:height:auto;border:1px solid #e7f1f3;-webkit-box-shadow: 2px 3px 2px rgba(204, 204, 204, 0.75);
+-moz-box-shadow:2px 3px 2px rgba(204, 204, 204, 0.75);box-shadow:2px 3px 2px rgba(204, 204, 204, 0.75);font-family:Arial, Helvetica, sans-serif;padding:20px;background-color:#FFF;}
+.popupbox .inquire_content{width:auto;margin:0 auto;text-align:center;font-size:14px;}
+.popupbox .inquire_content .title{font-size:25px;font-weight:bold; color:#282828 }
+.popupbox .inquire_content .subtitle{color:#666;line-height:30px;font-size:16px; }
+.popupbox .inquire_content .package_name{color:#282828;font-size:16px;padding:0 0 8px 0;}
+.popupbox .inquire_content .btnfield{border-top:1px dotted #00aad2;text-align:center;font-size:14px;line-height:45px;padding:20px 0 0 0;margin:20px 0 0 0; }
+.popupbox .form_fields{height:auto;margin:0 auto; text-align:left;}
+.popupbox .form_fields li{height:auto;list-style:none;display:block; } 
+.popupbox .form_fields li button{margin:15px 0 0 0;text-align:center }
+.popupbox .form_fields li input[type=text]{height:34px;}
+.popupbox .form_fields li label{font-size:16px;color:#666;font-family:Arial, Helvetica, sans-serif;display:block;padding:5px 0 0 0;text-align:left; font-weight:normal;}
+.popupbox .pink_btn{width:auto;display:inline-block;padding:5px 22px;font-size:22px;color:#FFFFFF;text-decoration: none;line-height:35px;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;cursor: pointer;background:#cc0066;text-align:center;border:1px solid #aa0156;font-family:'museo_700regular', Tahoma, Calibri, Arial, sans-serif;font-weight:normal;}
+.popupbox  .pink_btn:hover{width:auto;display:inline-block;padding:5px 22px;font-size:22px;color:#FFFFFF;text-decoration: none;line-height:35px;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;cursor: pointer;background:#cc0066;text-align:center;border:1px solid #aa0156;font-family:'museo_700regular', Tahoma, Calibri, Arial, sans-serif;font-weight:normal;}
+.popupbox .thankyou_tagimg{background:url(../../images/deals/twocolumn/thanksyou_tag.png) no-repeat;width:350px;height:320px;margin:0 auto; }
+.popupbox .thankyoutitle{color:#282828;font-size:22px;font-weight:bold;padding:240px 0 0 0;text-align:center;}
+label{line-height:normal;}
+/*
+ * jQuery UI Datepicker 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Datepicker#theming
+ */
+.ui-datepicker { width: 17em; padding: .2em .2em 0; display: none; }
+.ui-datepicker .ui-datepicker-header { position:relative; padding:.2em 0;background-color:#cc0066;}
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next { position:absolute; top: 2px; width: 1.8em; height: 1.8em;background-color:#9d0250; }
+.ui-datepicker .ui-datepicker-prev-hover, .ui-datepicker .ui-datepicker-next-hover { top: 1px; }
+.ui-datepicker .ui-datepicker-prev { left:2px; }
+.ui-datepicker .ui-datepicker-next { right:2px; }
+.ui-datepicker .ui-datepicker-prev-hover { left:1px; }
+.ui-datepicker .ui-datepicker-next-hover { right:1px; }
+.ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next span { display: block; position: absolute; left: 50%; margin-left: -8px; top: 50%; margin-top: -8px;}
+.ui-datepicker .ui-datepicker-title { margin: 0 2.3em; line-height: 1.8em; text-align: center; }
+.ui-datepicker .ui-datepicker-title select { font-size:1em; margin:1px 0; }
+.ui-datepicker select.ui-datepicker-month-year {width: 100%;}
+.ui-datepicker select.ui-datepicker-month, 
+.ui-datepicker select.ui-datepicker-year { width: 49%;}
+.ui-datepicker table {width: 100%; font-size: .9em; border-collapse: collapse; margin:0 0 .4em; }
+.ui-datepicker th { padding: .7em .3em; text-align: center; font-weight: bold; border: 0;}
+.ui-datepicker td { border: 0; padding: 1px;border:1px solid #e5f6fa; }
+.ui-datepicker td span, .ui-datepicker td a { display: block; padding: 8px; text-align: right; text-decoration: none; }
+.ui-datepicker .ui-datepicker-buttonpane { background-image: none; margin: .7em 0 0 0; padding:0 .2em; border-left: 0; border-right: 0; border-bottom: 0; }
+.ui-datepicker .ui-datepicker-buttonpane button { float: right; margin: .5em .2em .4em; cursor: pointer; padding: .2em .6em .3em .6em; width:auto; overflow:visible; }
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current { float:left; }
+/* with multiple calendars */
+.ui-datepicker.ui-datepicker-multi { width:auto; }
+.ui-datepicker-multi .ui-datepicker-group { float:left; }
+.ui-datepicker-multi .ui-datepicker-group table { width:95%; margin:0 auto .4em; }
+.ui-datepicker-multi-2 .ui-datepicker-group { width:50%; }
+.ui-datepicker-multi-3 .ui-datepicker-group { width:33.3%; }
+.ui-datepicker-multi-4 .ui-datepicker-group { width:25%; }
+.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header { border-left-width:0; }
+.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header { border-left-width:0; }
+.ui-datepicker-multi .ui-datepicker-buttonpane { clear:left; }
+.ui-datepicker-row-break { clear:both; width:100%; font-size:0em; }
+/* RTL support */
+.ui-datepicker-rtl { direction: rtl; }
+.ui-datepicker-rtl .ui-datepicker-prev { right: 2px; left: auto; }
+.ui-datepicker-rtl .ui-datepicker-next { left: 2px; right: auto; }
+.ui-datepicker-rtl .ui-datepicker-prev:hover { right: 1px; left: auto; }
+.ui-datepicker-rtl .ui-datepicker-next:hover { left: 1px; right: auto; }
+.ui-datepicker-rtl .ui-datepicker-buttonpane { clear:right; }
+.ui-datepicker-rtl .ui-datepicker-buttonpane button { float: left; }
+.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current { float:right; }
+.ui-datepicker-rtl .ui-datepicker-group { float:right; }
+.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header { border-right-width:0; border-left-width:1px; }
+.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header { border-right-width:0; border-left-width:1px; }
+/* IE6 IFRAME FIX (taken from datepicker 1.5.3 */
+.ui-datepicker-cover {
+    display: none; /*sorry for IE5*/
+    display/**/: block; /*sorry for IE5*/
+    position: absolute; /*must have*/
+    z-index: -1; /*must have*/
+    filter: mask(); /*must have*/
+    top: -4px; /*must have*/
+    left: -4px; /*must have*/
+    width: 200px; /*must have*/
+    height: 200px; /*must have*/
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{background-color:#FFFFFF;border:none;color:#282828; }
+.ui-widget-content{border: 1px solid #E7F1F3;color: #5f6162;background-color: #FFFFFF;} 
+.adloading_image{position:absolute; top:0;left:0;width:710px;height:auto;background:url('../../images/deals/twocolumn/bkg_loading.png') repeat 0 0; display:none;border-radius:3px; z-index:100000}
+.adloading_image span {position:absolute; top:50%; left:50%; margin:-20px 0 0 -20px; width:40px; height:40px; background:url('../../images/deals/twocolumn/back_loader.png') no-repeat 0 0; padding:4px 0 0 4px;}
+.adloading_image span img {float:left; height:32px; width:32px;}
+.loading{text-align:center; width:100%; background:#FFFFFF center no-repeat url('../../images/deals/twocolumn/ajax-loader.gif');}
+.adlayoutsprite {display:inline-block;margin:0;padding:0;position:relative;overflow:hidden;vertical-align:middle;background:url(../../images/adlayout/holidaysprite.png) no-repeat;}
+.adlayoutsprite.search_icon {background-position: -3px -3px;width:24px;height:22px;}
+.adlayoutsprite.detail_icon {background-position: -29px -3px;width:24px;height:20px;}
+.adlayoutsprite.inquire_icon {background-position: -55px -3px;width:24px;height:18px;}
+.adlayoutsprite.review_icon {background-position: -81px -3px;width:20px;height:24px;}
+.adlayoutsprite.fcall_icon {background-position: -109px -3px;width:15px;height:15px;}
+.adlayoutsprite.fsupport_icon {background-position: -130px -3px;width:14px;height:10px;}
+.adlayoutsprite.faddress_icon {background-position: -151px -3px;width:12px;height:16px;}
+.adlayoutsprite.greenarrow_icon {background-position: -174px -3px;width:18px;height:20px;}
+.adlayoutsprite.blub_icon {background-position: -478px -3px;width:57px;height:95px;}
+.adlayoutsprite.family_icon {background-position: -543px -3px;width:96px;height:95px;}
+.adlayoutsprite.support_icon {background-position: -649px -3px;width:85px;height:95px;}
+.adlayoutsprite.rvs_photos {background-position:-5px -30px;width:28px;height:23px;}
+.adlayoutsprite.rvs_photos:hover {background-position:-5px -53px;width:28px;height:23px;}
+.adlayoutsprite.db_bag {background-position: -37px -30px;width:23px;height:19px;}
+.adlayoutsprite.db_alert {background-position: -64px -30px;width:23px;height:23px;}
+.adlayoutsprite.db_print {background-position: -95px -30px;width:23px;height:23px;}
+.adlayoutsprite.db_save {background-position: -125px -30px;width:19px;height:27px;}
+.adlayoutsprite.db_email {background-position: -148px -30px;width:24px;height:17px;}
+.adlayoutsprite.db_callus {background-position: -105px -58px;width:24px;height:31px;}
+.adlayoutsprite.isc_cross {background-position: -174px -30px;width:20px;height:20px;}
+.adlayoutsprite.guarantee_tag {background-position: -37px -58px;width:64px;height:64px;}
+.adlayoutsprite.check_tag {background-position: -5px -79px;width:12px;height:10px;}

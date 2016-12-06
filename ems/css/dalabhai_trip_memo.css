@@ -1,0 +1,254 @@
+/* CSS Document */
+
+@font-face
+{
+font-family: titleFont;
+src: url(../fonts/Carrois_Gothic_SC/CarroisGothicSC-Regular.ttf);
+}
+
+@font-face
+{
+font-family: headingFont;
+src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+@font-face
+{
+font-family: myFont;
+src:url(../fonts/segoeui.ttf);
+}
+@font-face
+{
+font-family: myFontBold;
+src:url(../fonts/Roboto/Roboto-Bold.ttf)
+}
+
+
+
+*
+{
+	padding:0;
+	margin:0;
+}
+
+html,
+body 
+{
+   margin:0;
+   padding:0;
+   height:100%;
+   width:100%;
+   
+}
+
+a
+{
+	color:#000;
+	text-decoration:none;
+}
+
+a:selected
+{
+	color:#000;
+}
+
+
+.mainDiv
+{
+	position:relative;
+	width:95%;
+	height:100%;
+	left:2.5%;
+	
+}	
+
+.mainHeading
+{
+	position:relative;
+	width:100%;
+	height:4%;
+	text-align:center;
+	font-size:20px;
+	margin-bottom:1%;
+	
+}
+
+.rowOneHeader
+{
+	position:relative;
+	width:100%;
+	height:15%;
+	
+	
+}
+
+.juridiction
+{
+	position:relative;
+	width:100%;
+	height:3%;
+	text-align:center;
+	font-size:14px;
+	margin-bottom:1%;
+}
+
+.companyDetails
+{
+	position:relative;
+	width:100%;
+	height:11%;
+}
+
+.companyLogo
+{
+	position:relative;
+	height:6.5%;
+	float:left;
+	width:25%;
+	height:100%;
+}
+
+.companyName
+{
+	position:relative;
+	height:6.5%;
+	float:right;
+	width:65%;
+	height:100%;
+	font-size:40px;
+	
+	
+}
+
+.clearFix
+{
+	clear:both;
+}
+
+.addressLineOne
+{
+	position:relative;
+
+	width:100%;
+	height:2%;
+	margin-top:0.5%;
+	font-size:16px;
+	text-align:center;
+}
+
+.addressLineTwo
+{
+	position:relative;
+	width:100%;
+	height:2%;
+	font-size:16px;
+	text-align:center;
+}
+
+
+.rowTwo
+{
+	position:relative;
+	width:100%;
+	height:20%;
+	
+}
+
+.line
+{
+	position:relative;
+	width:100%;
+	height:5%;
+}
+
+.carNo, .address
+{
+	position:relative;
+	float:left;
+	width:95%;
+	height:100%;
+}
+
+.number, .driverName
+{
+	position:relative;
+	float:left;
+	width:50%;
+	height:100%;
+}
+
+.date, .ownerName
+{
+	position:relative;
+	float:right;
+	width:50%;
+	height:100%;
+}
+
+.rowThreeGoodsDetails
+{
+	position:relative;
+	width:100%;
+	height:35%;
+	
+	
+}
+table
+{
+	border-collapse:collapse;
+}
+
+table tr td
+{
+	
+	border:1px solid black;
+	padding:15px;
+}
+
+table tr
+{
+	text-align:center;
+}
+
+table tr .consignor
+{
+	position:relative;
+	
+}
+
+.rowFiveFooter
+{
+	position:relative;
+	width:100%;
+	height:15%;
+	background-color:#cccc;
+	
+}
+
+.leftSign
+{
+	position:relative;
+	float:left;
+	width:50%;
+	height:100%;
+	font-size:18px;
+	font-weight:bold;
+	
+}
+
+.rightSign
+{
+    position:relative;
+	float:right;
+	width:20%;
+	height:100%;
+	font-size:18px;
+	font-weight:bold;
+	
+}
+
+
+
+@media print
+  {
+	  
+  }

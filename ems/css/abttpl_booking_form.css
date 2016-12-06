@@ -1,0 +1,534 @@
+@font-face
+{
+font-family: titleFont;
+src: url(../fonts/Carrois_Gothic_SC/CarroisGothicSC-Regular.ttf);
+}
+
+@font-face
+{
+font-family: headingFont;
+src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+@font-face
+{
+font-family: myFont;
+src:url(../fonts/segoeui.ttf);
+}
+@font-face
+{
+font-family: myFontBold;
+src:url(../fonts/Roboto/Roboto-Bold.ttf)
+}
+
+
+
+*
+{
+	padding:0;
+	margin:0;
+}
+
+html,
+body 
+{
+   margin:0;
+   padding:0;
+   height:100%;
+   width:100%;
+   
+}
+
+a
+{
+	color:#000;
+	text-decoration:none;
+}
+
+a:selected
+{
+	color:#000;
+}
+
+
+.mainClass
+{
+	position:relative;
+	width:95%;
+	height:100%;
+	padding-left:2.5%;
+}
+
+.ABHeader
+{
+	position:relative;
+	width:100%;
+	height:15%;
+}	
+
+.leftLogo
+{
+	position:relative;
+	float:left;
+    width:10%;
+	left:75px;
+	
+}
+
+.rightLogo
+{
+	position:relative;
+	float:right;
+    width:40%;
+	margin-right:300px;
+	margin-top:12px;
+}
+
+.clearDiv
+{
+	clear:both;
+}
+
+.address, .phoneNo, .emailWeb
+{
+	position:relative;
+	width:100%;
+	height:1%;
+	text-align:center;
+	font-size:16px;
+}
+
+.numbering
+{
+	position:relative;
+	width:100%;
+	height:5%;
+}
+
+.numberingUpper, .numberingLower
+{
+	
+	position:relative;
+	width:100%;
+	height:45%;
+	
+}
+
+.numberingLower
+{
+	margin-bottom:20px;
+	
+}
+
+.contractForm
+{
+	position:relative;
+	float:left;
+	width:65%;
+	height:100%;
+	text-align:right;
+	font-size:18px;
+	font-weight:900;
+}
+
+.billNo
+{   
+    position:relative;
+	float:right;
+	width:25%;
+	height:100%;
+	
+}
+
+.booking
+
+{
+	position:relative;
+	float:left;
+	width:33.3%;
+	height:100%;
+}
+
+.tourCode
+
+{
+	position:relative;
+	float:left;
+	width:33.3%;
+	height:100%;
+	
+}
+
+.date
+
+{
+	position:relative;
+	float:right;
+	width:33%;
+	height:100%;
+	
+}
+
+.ticketInfoTable
+{
+	position:relative;
+	width:100%;
+	margin-bottom:25px;
+}
+
+table
+{
+	border-collapse:collapse;
+}
+
+table tr td
+{
+	
+	border:1px solid black;
+	padding:10px;
+}
+
+.noBorder tr td
+{
+	border:none;
+	
+}
+.noBorder tr
+{
+	text-align:left;
+	
+}
+
+table tr
+{
+	text-align:center;
+}
+
+.A, .B, .C, .D, .E, .F, .G
+{
+	position:relative;
+	width:100%;
+	height:1.5%;
+	margin-bottom:15px;
+}
+
+.OneByTwo
+{
+	position:relative;
+	float:left;
+	width:49%;
+	height:100%;
+	padding-bottom:15px;
+}
+
+.tourName
+{
+	position:relative;
+	float:left;
+	width:65%;
+	height:100%;
+}
+
+.departureDate
+{
+	position:relative;
+	float:left;
+	width:20%;
+	height:100%;
+}
+
+.days
+{
+	position:relative;
+	float:right;
+	width:10%;
+	height:100%;
+}
+
+.resAddress
+{
+	position:relative;
+	width:100%;
+}
+
+.notebeforeTable
+{
+	position:relative;
+	width:100%;
+	text-align:center;
+	margin-bottom:15px;
+	
+}
+
+.ticketInfoTable
+{
+	position:relative;
+	widows:100%;
+	height:15%;
+	margin-bottom:25px;
+}
+
+.afterTableContent
+{
+	position:relative;
+	width:100%;
+	min-height:100px;
+	margin-top:15px;
+}
+
+.leftDivContent
+{
+	position:relative;
+	float:left;
+	width:65%;
+	height:100%;
+	
+}
+
+.H, .forHotel, .extraHotel
+
+{
+	position:relative;
+	width:100%;
+	padding-bottom:15px;
+	
+}
+
+.rightDivContent
+{
+	position:relative;
+	float:right;
+	width:30%;
+	height:100%;
+	
+}
+
+
+
+.stamp
+{
+	position:relative;
+	height:125px;
+	width:160px;
+	margin-bottom:10px;
+	left:150px;
+	border: 2px solid #000;
+	font-size:14px;
+	text-align:center;
+}
+
+.officeUse
+{
+	position:relative;
+	width:100%;
+	min-height:100px;
+	margin-top:15px;
+	
+}
+
+.officeUseTitle
+{
+	position:relative;
+	text-align:center;
+	width:100%;
+	height:10%;
+	margin-bottom:15px;
+    font-weight:900;
+	
+}
+
+.officeUseContent
+{
+	position:relative;
+	width:100%;
+	height:100%;
+}
+
+.textRotate
+{
+	-webkit-transform: rotate(270deg);
+	-moz-transform: rotate(270deg);
+	-o-transform: rotate(270deg);
+	writing-mode: lr-tb;
+}
+
+.departure, .middle, .return, .officeUseA, .officeUseC
+
+{
+	position:relative;
+	width:100%;
+	min-height:25px;
+	
+}
+
+.departure, .middle, .return
+{
+	float:left;
+}
+
+.oneFifth
+{
+	position:relative;
+	float:left;
+	width:19%;
+	height:100%;
+}
+
+.oneFourthDiv
+{
+	position:relative;
+	float:left;
+	width:24%;
+	height:100%;
+}
+
+.oneThird
+{
+	position:relative;
+	float:left;
+	width:33%;
+	height:100%;
+	
+}
+
+.totalAmount
+{
+	position:relative;
+	width:100%;
+	min-height:100px;
+	margin-top:15px;
+	
+}
+
+.totalAmountTitle
+{
+	position:relative;
+	width:100%;
+	text-align:center;
+	margin-bottom:15px;
+	font-weight:900;
+}
+
+.totalAmountContent
+{
+	position:relative;
+	float:right;
+	width:100%;
+	
+}
+
+.row
+{
+	position:relative;
+	width:100%;
+	min-height:25px;
+}
+
+.oneFifthBigger
+{
+	position:relative;
+	float:left;
+	width:22.5%;
+	height:100%;
+	
+}
+
+.oneFifthSmaller
+{
+	position:relative;
+	float:left;
+	width:15.5%;
+	height:100%;
+	
+}
+
+.oneThirdSmaller
+{
+	position:relative;
+	float:left;
+	width:30%;
+	height:100%;
+}
+
+.paddingBottomClass
+{
+	padding-bottom:15px;
+}
+
+.signatures
+{
+	position:relative;
+	min-height:50px;
+	width:100%;
+	margin-top:0px;
+}
+
+.ourSign
+{
+	position:relative;
+	float:left;
+	width:49%;
+	height:100%;
+	margin-left:50px;
+}
+
+.theirSign
+{
+	position:relative;
+	float:right;
+	width:25%;
+	height:100%;
+	
+}
+
+.signatureBox
+{
+	position:relative;
+	height:50px;
+	width:175px;
+	margin-left:0px;
+	border: 2px solid #000;
+	font-size:14px;
+	
+}
+
+.ticketInfo
+{
+	position:relative;
+	min-height:100px;
+	width:100%;
+	margin-top:0px;
+}
+
+
+.ticketInfoHeading
+{
+	position:relative;
+	width:100%;
+    text-align:center;
+	font-size:18px;
+}
+
+.railAir
+{
+	position:relative;
+	width:100%;
+	margin-bottom:7px;
+	font-weight:900;
+}
+
+.railDepartureDetails
+{
+	position:relative;
+	width:100%;
+
+	
+}
+
+@media print{
+	.insideCoreContent
+	{
+		max-width:98%;
+		min-width:98%;
+		width:98%;
+		}
+	}

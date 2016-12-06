@@ -1,0 +1,1703 @@
+/** Custom fonts from Fonts.com **/
+.univers {
+	font-family:'UniversLTW01-59UltraCn' !important;
+}
+
+.proxima {
+	font-family:'Proxima N W01 Light' !important;
+}
+
+.din {
+	font-family:'DINNeuzeitGroteskLTW01- 812429' !important;
+}
+
+/** Some utility classes */
+
+.din33 {
+	font-family:'DINNeuzeitGroteskLTW01- 812429' !important;
+	font-size: 33px;
+}
+
+.din23 {
+	font-family:'DINNeuzeitGroteskLTW01- 812429' !important;
+	font-size: 23px;
+	color: #3f3f3f;
+}
+
+.univers23 {
+	font-family:'UniversLTW01-59UltraCn';
+	font-size: 23px;
+}
+
+.proxima19 {
+	font-family:'Proxima N W01 Light' !important;
+	font-size: 19px;
+}
+
+.font29 {
+	font-size: 29px !important;
+}
+
+.btn {
+	display: block;
+	background-color: #5185ac;
+	color: #fff;
+	font-size: 15px;
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: left;
+	line-height: 27px;
+	width: 210px;
+	height: 40px;
+	margin-top: 15px;
+	transition: background-color 0.1s linear;
+	-moz-transition: background-color 0.1s linear;
+	-webkit-transition: background-color 0.1s linear;
+}
+
+.btn.active,
+.btn:hover {
+	background-color: #2f516b;
+	color: #fff;
+}
+
+.btn .glyphicon-play {
+	font-size: 12px;
+	margin-top: 5px;
+}
+
+.marginTop0   { margin-top: 0px !important; }
+.marginTop10  { margin-top: 10px !important; }
+.marginTop15  { margin-top: 15px !important; }
+.marginTop20  { margin-top: 20px !important; }
+.marginTop30  { margin-top: 30px !important; }
+.marginTop40  { margin-top: 40px !important; }
+.marginTop50  { margin-top: 50px !important; }
+.marginTop60  { margin-top: 60px !important; }
+.marginTop70  { margin-top: 70px !important; }
+.marginTop80  { margin-top: 80px !important; }
+.marginTop90  { margin-top: 90px !important; }
+.marginTop100 { margin-top: 100px !important; }
+
+.marginBtm0  { margin-bottom: 0px !important; }
+.marginBtm10 { margin-bottom: 10px !important; }
+.marginBtm20 { margin-bottom: 20px !important; }
+.marginBtm30 { margin-bottom: 30px !important; }
+.marginBtm40 { margin-bottom: 40px !important; }
+.marginBtm50 { margin-bottom: 50px !important; }
+.marginBtm60 { margin-bottom: 60px !important; }
+
+.paddingLeft0 { padding-left: 0px !important; }
+
+.no-border { border: 0 !important;}
+.uppercase { text-transform: uppercase !important; }
+
+h1.section-header {
+	font-family:'UniversLTW01-59UltraCn' !important;
+	font-size: 68px;
+	color: #3f3f3f;
+	text-transform: uppercase;
+	border-bottom: 1px solid #fff;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+
+.read-more {
+	font-size: 19px;
+	color: #337976;
+}
+
+.italic { font-style: italic; }
+
+.text-cols-2 {
+	-webkit-column-count: 2;
+	-moz-column-count: 2;
+	column-count: 2;
+	-webkit-column-gap: 30px;
+	-moz-column-gap: 30px;
+	column-gap: 30px;
+}
+
+.text-cols-3 {
+	-webkit-column-count: 3;
+	-moz-column-count: 3;
+	column-count: 3;
+	-webkit-column-gap: 30px;
+	-moz-column-gap: 30px;
+	column-gap: 30px;
+}
+
+.text-massive {
+	font-family:'UniversLTW01-59UltraCn';
+	font-size: 90px;
+	line-height: 90px;
+	color: #3f3f3f;
+	margin-bottom: 0px;
+}
+
+.white    { color: #fff !important; }
+.red      { color: #d21e1f !important; }
+.a7       { color: #a7a7a7; }
+
+.bg-red   { background-color: #e46e17; }
+.bg-red.active,
+.bg-red:hover { background-color: #c15c12; }
+.bg-white { background-color: #fff !important; }
+.bg-a7    { background-color: #a7a7a7 !important; }
+
+.borderBottom    { border-bottom: 1px solid #d3d3d3 !important; }
+.borderBottom-a7 { border-bottom: 1px solid #a7a7a7 !important; }
+
+
+.font15 { font-size: 15px; }
+
+.pointer { cursor: pointer; }
+
+
+.underline {
+	border-bottom: 1px solid #a7a7a7;
+	padding-bottom: 15px;
+	margin-bottom: 20px;
+}
+
+.width100 { width: 100% !important; }
+
+
+/** CSS Overrides for Bootstrap and Customizations **/
+
+body {
+	font-family:'Proxima N W01 Light';
+	font-size: 19px;
+	color: #6d6d6d;
+	background-color: #fff;
+}
+
+div.main-container {
+	padding-top: 100px;
+/*
+	border-left: 1px solid #101010;
+	border-right: 1px solid #101010;
+	box-shadow: 0 0 15px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0 0 15px rgba(0,0,0,0.2);
+	-webkit-box-shadow: 0 0 15px rgba(0,0,0,0.2);
+	background-color: #fff;
+*/
+}
+
+a {
+	transition: color 0.1s linear;
+	-moz-transition: color 0.1s linear;
+	-webkit-transition: color 0.1s linear;
+}
+
+h3,
+h3 > a {
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	font-size: 33px;
+	color: #3f3f3f;
+	line-height: 40px;
+}
+
+h4,
+h4 > a {
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	font-size: 23px;
+	color: #3f3f3f;	
+}
+
+hr {
+	height: 1px;
+	width: 100%;
+	background-color: #ededed;
+	border-width: 0px 0px 1px 0px;
+	border-bottom: 1px solid #e1e1e1;
+	margin-top: 42px;
+	margin-bottom: 35px;
+}
+
+/** Modals **/
+
+.modal-content {
+	border: 0;
+	border-radius: 0;
+	padding-bottom: 60px;
+}
+
+.modal-dialog { width: 80%; }
+
+.modal-dialog .close {
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	font-size: 52px;
+	color: #3f3f3f;
+	opacity: 1;
+}
+
+.modal-dialog .close:hover { opacity: 0.8; }
+
+
+
+/** Navbar **/
+
+.navbar-inverse {
+	background-color: #3f3f3f;
+	border: 0;
+	border-radius: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+	background-color: transparent;
+}
+
+
+.navbar.navbar-fixed-top {
+	border-bottom: 1px solid #e1e1e1;
+	border-top: 5px solid #e46e17;
+/*
+	border-left: 1px solid #101010;
+	border-right: 1px solid #101010;
+	box-shadow: 0 -3px 15px rgba(0,0,0,0.4);
+*/
+
+	background-color: #fff;
+	color: #3f3f3f;
+	height: 100px;
+}
+
+.navbar.navbar-fixed-top .navbar-nav.nav a {
+	font-size: 15px;
+	text-transform: uppercase;
+	color: #3f3f3f;
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	padding: 15px 20px 15px 20px;
+	border-bottom: 2px solid transparent;
+	background: transparent;
+}
+
+.navbar-brand {
+	margin-top: 7px;
+	padding: 0 0 0 15px;
+	height: 70px;
+}
+
+.form-search input[type="text"] {
+	text-transform: uppercase;
+	border-color: #a7a7a7;
+	border-radius: 30px;
+	width: 170px;
+	padding-top: 9px;
+}
+
+form .glyphicon-search {
+	color: #6D6E71;
+	font-size: 13px;
+}
+
+#navbar-header-main.navbar .navbar-collapse {
+	margin-top: 24px;
+	background-color: transparent;
+}
+
+.navbar .navbar-collapse.collapsing,
+.navbar .navbar-collapse.in {
+	background-color: transparent;
+}
+
+.navbar .navbar-toggle .icon-bar {
+	background-color: #3f3f3f;
+}
+
+#navbar-header-main .nav .open>a.active,
+#navbar-header-main .nav>li.active>a,
+#navbar-header-main .nav>li>a.active,
+#navbar-header-main .navbar.navbar-fixed-top .navbar-nav.nav > li.active > a,
+
+#navbar-header-main .nav .open>a,
+#navbar-header-main .nav .open>a:hover,
+#navbar-header-main .nav .open>a:focus,
+#navbar-header-main .nav>li>a:hover,
+#navbar-header-main .nav>li>a:focus,
+#navbar-header-main .navbar.navbar-fixed-top .navbar-nav.nav > li > a:hover {
+	text-decoration: none;
+	background-color: transparent;
+	border-bottom: 2px solid #e6381f;
+}
+
+.navbar.navbar-fixed-top .navbar-nav.nav .dropdown-menu > li > a:hover {
+	text-decoration: none;
+	background-color: transparent;
+	color: #e6381f;
+}
+
+.dropdown-menu {
+	top: 97%;
+}
+
+.navbar.navbar-fixed-top .dropdown-menu {
+	border-top: 2px solid #e6381f;
+	left: -50px;
+	width: 200px;
+	text-align: center;
+}
+
+
+
+/** SITE FOOTER **/
+
+footer {
+	background-color: #3f3f3f;
+	padding-top: 30px;
+	min-height: 260px;
+}
+
+footer .footer-top {
+	min-height: 200px;
+}
+
+footer .footer-bottom {
+	background-color: #393939;
+	text-align: center;
+	min-height: 60px;
+}
+
+footer h3,
+footer .footer-nav-items-large li a {
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	font-size: 15px;
+	line-height: 22px;
+	color: #a7a7a7;
+	margin-top: 10px;
+	text-transform: uppercase;
+}
+
+footer .footer-nav-items-large li a {
+	display: block;
+	margin-bottom:10px;
+}
+
+footer .footer-nav-items,
+footer .footer-nav-items-large {
+	height: 170px;
+	list-style: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+footer .footer-nav-items li a {
+	font-family:'Proxima N W01 Light';
+	font-size: 15px;
+	color: #6d6d6d;
+	padding: 5px 0;
+	display: block;
+}
+
+footer .footer-top .footer-contact-link {
+	display: block;
+	background-color: #353333;
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 15px;
+	color: #fff;
+	margin-top: 15px;
+	padding: 13px 18px;
+	width: 100%;
+}
+
+footer .footer-top .footer-contact-link .glyphicon-play {
+	margin-top: 2px;
+	font-size: 12px;
+}
+
+footer .footer-top .footer-contact-icons img {
+	margin: 25px 10px 25px 0;
+}
+
+footer .footer-bottom .footer-nav-items {
+	height: auto;
+	margin: 30px auto;
+}
+
+footer .footer-bottom .footer-nav-items li {
+	display: inline;
+	font-family:'Proxima N W15 Light';
+	color: #505050;
+	padding: 0 10px;
+	border-right: 1px solid #505050;
+}
+
+footer .footer-bottom .footer-nav-items li:last-of-type {
+	border: 0;
+}
+
+footer .footer-bottom .footer-nav-items li,
+footer .footer-bottom .footer-nav-items li a {
+	display: inline;
+	font-size: 15px;
+	font-family:'Proxima N W01 Light';
+	line-height: 10px;
+	color: #505050;
+}
+
+footer .vm-bug {
+	font-family: 'Helvetica Neueu', Helvetica;
+	font-size: 12px;
+	font-weight: bold;
+	color: #a0a0a0;
+}
+
+footer .vm-bug img {
+	vertical-align: text-bottom;
+	margin-bottom: 2px;
+}
+
+/** END SITE FOOTER **/
+
+
+/** HOMEPAGE **/
+
+.homepage-stage-img {
+	width: 100%;
+	height: auto;
+}
+
+.carousel-caption.text-left {
+	text-align: left;
+	top: 20%;
+}
+
+.banner { position: relative; overflow: auto; color: #fff;}
+.slide h1,
+.banner h1 { font-size: 68px; font-family:'UniversLTW01-59UltraCn'; border-bottom: 1px solid #fff; text-transform: uppercase;}
+.banner ul { list-style: none; padding: 0; margin: 0;}
+
+.slide,
+.banner .slide-cont { background-size: cover; background-position: center center; overflow: hidden; padding: 100px 0; }
+
+.iosslider .slide {
+	color: #fff;
+}
+
+.iosslider .slide h1 {
+	font-size: 68px; font-family:'UniversLTW01-59UltraCn'; border-bottom: 1px solid #fff; text-transform: uppercase;
+}
+
+.iosslider .slide {
+	background-size: cover; background-position: center center; overflow: hidden; padding: 60px 0;
+}
+
+.iosslider h1 i {
+	vertical-align: text-top;
+	font-size: 61px;
+}
+
+/*
+    .banner ul li { float: left; }
+*/
+
+.banner .dots {position:absolute;display:block;padding:0;left:0;right:0;bottom:20px;z-index:100;text-align:center;}
+.banner .dots li{
+	display:inline-block;
+	list-style-type:none;
+	width:20px;
+	height:20px;
+	margin:0 4px;
+	text-indent:-999em;
+	border:4px solid #fff;
+	-webkit-border-radius:50%;
+	border-radius:50%;
+	cursor:pointer;
+	opacity:.4;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+	filter:alpha(opacity=40);
+	-webkit-transition:background .5s, opacity .5s;
+	-moz-transition:background .5s, opacity .5s;
+	-webkit-transition:background 0.5s, opacity 0.5s;
+	-moz-transition:background 0.5s, opacity 0.5s;
+	-o-transition:background 0.5s, opacity 0.5s;
+	-ms-transition:background 0.5s, opacity 0.5s;
+	transition:background 0.5s, opacity 0.5s;
+}
+.banner .dots li.active{background:#000;opacity:1;-ms-filter:none;filter:none}
+
+/*
+.carousel-caption {
+	position: absolute;
+	left: 15%;
+	right: 15%;
+	bottom: 20px;
+	z-index: 10;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #fff;
+	text-align: center;
+	text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+*/
+.slider-wrapper img {
+	max-width: 100%;
+	height: auto;
+}
+
+/* what we do */
+.homepage-icons-cont {
+	text-align: center;
+	padding: 17px 0 30px;
+}
+
+.homepage-icons-cont h2 {
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	font-size: 26px;
+	color: #3f3f3f;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+}
+
+.homepage-icons-cont p,
+.homepage-icons-cont h4 {
+	font-family:'Proxima N W01 Light';
+	font-size: 19px;
+	color: #6d6d6d;
+}
+
+.homepage-icons-cont h4 {
+	margin-top: 11px;
+}
+
+.homepage-icons {
+	margin-top: 20px;
+}
+
+.homepage-icons i {
+	font-size: 85px;
+	color: #a7a7a7;
+	transition: color 0.1s linear;
+	-moz-transition: color 0.1s linear;
+	-webkit-transition: color 0.1s linear;
+}
+
+.homepage-icons a:hover,
+.homepage-icons a:hover i,
+.homepage-icons a:hover h4 {
+	text-decoration: none;
+	color: #e6381f;
+}
+/* end- what we do */
+
+/* inside redhorse */
+
+.inside-redhorse {
+	padding: 50px 0;
+	background-image: url(/fine/images/inside-redhorse-bg.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.inside-redhorse h3 {
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	text-transform: uppercase;
+	font-size: 33px;
+	color: #3f3f3f;
+}
+
+.inside-redhorse p {
+	font-size: 19px;
+}
+
+/* end - inside redhorse */
+
+/* vehicle listings */
+
+.homepage-vehicle-news-cont {
+	padding: 40px 0 60px;
+}
+
+.homepage-vehicle-news-cont h3 {
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	text-transform: uppercase;
+	font-size: 33px;
+	color: #3f3f3f;
+}
+
+.homepage-vehicle-entries a {
+	display: block;
+	width: 90%;
+	margin-top: 20px;
+}
+
+.homepage-news-entries a.title {
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	font-size: 23px;
+	color: #3f3f3f;	
+}
+
+.homepage-news-entries p {
+	font-size: 15px;
+	color: #a7a7a7;	
+}
+
+
+/* end- vehicle listings */
+
+/** END HOMEPAGE **/
+
+
+/** ABOUT **/
+
+body.layout-about .section-header {
+	background: url(/images/about-landing-header.jpg) no-repeat;
+	background-position: center center;
+	background-size: cover;
+	padding: 140px 0;
+	margin: 0;
+	color: #fff;
+}
+
+body.layout-about section {
+	padding: 15px 0 30px 0;
+}
+
+#navbar-about.affix {
+    position: fixed;
+    z-index: 1000;
+    top: 100px;
+    width: 100%;
+/*
+	max-width: 1170px;
+*/
+}
+
+#navbar-about ul.nav {
+	overflow: visible;
+	display: inline-block;
+	margin: 10px auto 0 auto;
+	float: none;
+}
+
+#navbar-about ul.nav li a {
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	font-size: 15px;
+	text-transform: uppercase;
+	color: #a7a7a7;
+	padding: 15px 20px;
+}
+
+#navbar-about ul.nav li:hover a,
+#navbar-about ul.nav li.active a {
+	color: #fff;
+}
+
+#navbar-about ul.nav li:hover .triangle,
+#navbar-about ul.nav li.active .triangle {
+	display: block;
+}
+
+.triangle {
+	display: none;
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: 11px 10px 0 10px;
+	border-color: #3f3f3f transparent transparent transparent;
+	position: absolute;
+	top: 117%;
+	left: 50%;
+	margin-left: -10px;
+}
+
+#the-team {
+	background-image: url(/images/about-the-team-bg.jpg);
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #f4f5f2;
+}
+
+#the-name {
+/*
+	background-image: url(/images/about-the-name-bg.jpg);
+	background-position: top right;
+	background-repeat: no-repeat;
+*/
+	background-color: #ebebeb;
+}
+
+.about-banner {
+	height: 455px;
+	width: 100%;
+	background-image: url(/images/about-leaders-placeholder.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.leader-title {
+	cursor: pointer;
+}
+
+.leader-title:hover {
+	color: #2a6496;
+	text-decoration: underline;
+}
+
+/** END - ABOUT **/
+
+
+
+
+/** SERVICES **/
+
+
+#navbar-services {
+    position: fixed;
+    width: 100%;
+    z-index:1000;
+/*
+    max-width: 1170px;
+*/
+}
+
+#navbar-services ul.nav {
+	overflow: visible;
+	display: inline-block;
+	margin: 10px auto 0 auto;
+	float: none;
+}
+
+#navbar-services ul.nav li a {
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	font-size: 15px;
+	text-transform: uppercase;
+	color: #a7a7a7;
+	padding: 0 50px;
+}
+
+#navbar-services ul.nav li a i {
+	font-size: 50px;
+}
+
+#navbar-services ul.nav li:hover a,
+#navbar-services ul.nav li.active a {
+	color: #fff;
+}
+
+#navbar-services ul.nav li:hover .triangle,
+#navbar-services ul.nav li.active .triangle {
+	display: block;
+}
+
+#navbar-services .triangle {
+	display: none;
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: 11px 10px 0 10px;
+	border-color: #3f3f3f transparent transparent transparent;
+	position: absolute;
+	top: 110%;
+	left: 50%;
+	margin-left: -10px;
+}
+
+section#services-category-header {
+	padding: 60px 0;
+}
+
+section#services-category-body {
+
+}
+
+section#services-category-body h4 {
+	margin: 40px 0;
+}
+
+section#services-category-body ul {
+	list-style: none;
+	list-style-image: url(/images/dot-yellow.png);
+	padding-left: 10px;
+}
+
+section#services-category-body ul li {
+	margin-bottom: 20px;
+}
+
+section#services-category-body ul li:before {
+/*
+    content: "• ";
+    color: #ffcf00;
+*/
+}
+
+section#services-category-projects .header {
+	position: relative;
+	background-image: url(/images/services-projects-header-bg.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #3f3f3f;
+}
+
+body.layout-services-energy section#services-category-projects .header {
+	background-image: url(/images/project-headers/energy_project_banner.jpg);
+}
+
+body.layout-services-environmental section#services-category-projects .header {
+	background-image: url(/images/project-headers/environmental_project_banner.jpg);
+}
+
+body.layout-services-technology section#services-category-projects .header {
+	background-image: url(/images/project-headers/technology_project_banner.jpg);
+}
+
+body.layout-services-intelligence section#services-category-projects .header {
+	background-image: url(/images/project-headers/intelligence_project_banner.jpg);
+}
+
+body.layout-services-mission-support section#services-category-projects .header {
+	background-image: url(/images/project-headers/mission_support_sub-header.jpg);
+}
+
+
+section#services-category-projects .header .triangle {
+	display: none;
+	top: 100%;
+}
+
+section#services-category-projects .header h3 {
+	padding: 70px 0;
+	font-size: 40px;
+}
+
+.projects-header { text-transform: uppercase; }
+
+body.layout-services .service-item { position: relative; }
+
+body.layout-services .service-item img { width: 100%; height: auto; }
+
+body.layout-services .service-item a.btn {
+	position: absolute;
+	top: 66%;
+	left: 50%;
+	width: 150px;
+	margin-left: -75px;
+}
+
+body.layout-services .service-item a.btn.services-contact-btn {
+	background-color: #d11826;
+	margin-top: 0;
+	top: 51%;
+}
+
+
+body.layout-services .service-item a.btn.services-contact-btn:hover {
+	background-color: #2f516b;
+	margin-top: 0;
+}
+
+body.layout-services-energy section#services-category-header {
+	background-image: url(/images/services-technology-header.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+body.layout-services-environmental section#services-category-header {
+	background-image: url(/images/services-environmental-header.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+body.layout-services-technology section#services-category-header {
+	background-image: url(/images/services-energy-header.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+body.layout-services-intelligence section#services-category-header {
+	background-image: url(/images/services-intelligence-header.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+body.layout-services-mission-support section#services-category-header {
+	background-image: url(/images/mission_support_main.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/* modal */
+
+#services-category-body ul.modal-links li {
+	cursor: pointer;
+}
+
+#services-category-body ul.modal-links li:hover {
+	text-decoration: underline;
+}
+
+.services-modal .modal-content {
+	width: 50%;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+
+.services-modal h2 {
+	color: #3f3f3f;
+	border-bottom: 1px solid #a7a7a7;
+	margin-bottom: 30px;
+	margin-top: 0;
+}
+
+.services-modal .modal-dialog .close {
+	font-size: 37px;
+}
+
+.services-modal .modal-body .row {
+	padding: 0 30px;
+}
+
+
+/** END - SERVICES **/
+
+/** PROJECTS **/
+
+.project-list-item {
+	position: relative;
+	height: 425px;
+	border-bottom: 1px solid #d3d3d3;
+	margin-top: 30px;
+}
+
+.project-list-item .btn {
+	position: absolute;
+	bottom: 40px;
+	width: 150px;
+}
+
+.projects-sidebar {
+	background-color: #f2f2f2;
+	padding: 40px 0;
+}
+
+.projects-sidebar h4 {
+	padding: 0 40px;
+}
+
+.projects-nav a {
+	padding: 10px 40px;
+	display: block;
+}
+
+.projects-nav a.active {
+	display: block;
+	background-color: #e0e0e0;
+}
+
+/** END - PROJECTS **/
+
+
+
+/** VEHICLES **/
+
+body.layout-vehicles .vehicles-header-cont {
+	background-image: url(/images/vehicles/vehicles-landing-header.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px 0;
+}
+
+.vehicles-header-cont-inner {
+	width: 40%;
+	min-width: 360px;
+	margin: 0 auto;
+}
+body.layout-vehicles h1.section-header {
+	border-bottom-color: #fff;
+}
+
+body.layout-vehicles .project-list-item {
+	height: 325px;
+	padding: 0 30px;
+}
+
+body.layout-vehicles .project-list-item .borderBottom {
+	position: absolute;
+	top: 0;
+	left: 30px;
+	right: 30px;
+	bottom: 0;
+}
+
+
+#navbar-vehicles {
+    position: fixed;
+    width: 100%;
+    z-index:1000;
+/*
+    max-width: 1170px;
+*/
+}
+
+#navbar-vehicles ul.nav {
+	overflow: visible;
+	display: inline-block;
+	margin: 10px auto 0 auto;
+	float: none;
+}
+
+#navbar-vehicles ul.nav li a {
+	font-family:'DINNeuzeitGroteskLTW01- 812429';
+	font-size: 15px;
+	text-transform: uppercase;
+	color: #a7a7a7;
+	padding: 14px 50px;
+}
+
+#navbar-vehicles ul.nav li a i {
+	font-size: 50px;
+}
+
+#navbar-vehicles ul.nav li:hover a,
+#navbar-vehicles ul.nav li.active a {
+	color: #fff;
+}
+
+#navbar-vehicles ul.nav li:hover .triangle,
+#navbar-vehicles ul.nav li.active .triangle {
+	display: block;
+}
+
+#navbar-vehicles .triangle {
+	display: none;
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: 11px 10px 0 10px;
+	border-color: #3f3f3f transparent transparent transparent;
+	position: absolute;
+	top: 112%;
+	left: 50%;
+	margin-left: -10px;
+}
+
+.learn-more-contact {
+	background: url(/images/contracts-listing-bg.png) repeat;
+	padding: 14px 23px 38px 23px;
+	margin: 0 30px;
+}
+
+.learn-more-contact .btn {
+	width: 150px;
+	margin: 20px auto 0 auto;
+}
+
+/* detail page */
+
+body.layout-vehicles-detail .vehicles-header-cont {
+	background-image: url(/images/vehicles/vehicles-detail-header.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 30px 0 20px;
+}
+
+body.layout-vehicles-detail .vehicles-header-cont-inner h1 {
+	border: 0;
+}
+
+
+/* clients */
+
+.layout-contracts-clients ul li {
+	padding-bottom: 10px;
+}
+
+.vehicles-header-cont {
+	background-image: url(/images/vehicles/vehicles-clients-header.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px 0;
+}
+
+.vehicles-header-cont-inner {
+	width: 40%;
+	min-width: 360px;
+	margin: 0 auto;
+}
+
+body.layout-vehicles-clients h1.section-header {
+	border-bottom-color: #fff;
+}
+
+.layout-contracts-clients .text-cols-3 {
+	-webkit-column-gap: 80px;
+	-moz-column-gap: 80px;
+	column-gap: 80px;
+}
+
+.layout-contracts-clients .text-cols-3 h4 { text-transform: uppercase; }
+.layout-contracts-clients .text-cols-3 ul {
+	list-style-type: none;
+	list-style: none;
+	padding: 0 0 30px 0;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #d3d3d3;
+}
+
+/** project locations **/
+
+.layout-contracts-project-locations .vehicles-header-cont {
+	position: relative;
+	background-image: url(/images/where-we-are-landing-header.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 95px 0;
+	min-height: 315px;
+}
+
+.layout-contracts-project-locations .vehicles-header-cont #maparea {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+}
+
+.layout-contracts-project-locations .vehicles-header-cont .map-overlay {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -30px;
+	margin-left: -200px;
+	z-index: 2;
+}
+
+
+/** END - VEHICLES **/
+
+
+/** CONTRACTS **/
+
+.contracts-item-cont {
+	background: url(/images/contracts-listing-bg.png) repeat;
+	background-position: center center;
+	padding: 14px 23px 38px 23px;
+	min-height: 410px;
+}
+
+.contracts-item-cont h3 {
+	margin-bottom: 27px;
+}
+
+.contracts-item-cont p {
+	padding: 20px;
+	background: #fff;
+	min-height: 210px;
+	margin-bottom: 32px;
+	text-align: left;
+}
+
+.contracts-item-cont .btn {
+	width: 150px;
+}
+
+/** END - CONTRACTS **/
+
+
+/** CAREERS **/
+
+
+.careers-header-cont {
+	background-image: url(/images/careers/careers-header-bg.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 20px 0;
+}
+
+/** END - CAREERS **/
+
+/** NEWS **/
+
+.news-date { font-size: 16px; }
+
+body.layout-news .section-header {
+	background: url(/images/news-landing-header.jpg) no-repeat;
+	background-position: center center;
+	background-size: cover;
+	padding: 50px 0;
+	margin: 0;
+	color: #fff;
+}
+
+.news-sidebar {
+	background-color: #f2f2f2;
+	padding: 40px 0;
+}
+
+.news-sidebar h4 {
+	padding: 0 40px;
+}
+
+.categories-nav a {
+	padding: 5px 40px;
+	display: block;
+}
+
+.categories-nav a.active {
+	display: block;
+	background-color: #e0e0e0;
+}
+
+
+.categories-nav a {
+	display: block;
+	margin-bottom: 5px;
+	line-height: 19px;
+}
+
+
+/** END - NEWS **/
+
+
+/** SEARCH RESULTS **/
+
+
+.search-header-cont {
+	background-image: url(/images/search/search-header.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 20px 0;
+}
+
+ol.search-results-cont {
+	padding-left: 20px;
+	font-family: 'DINNeuzeitGroteskLTW01- 812429';
+	font-size: 23px;
+	color: #3f3f3f;
+}
+
+ol.search-results-cont h4 {
+	margin-top: -5px;
+}
+
+ol.search-results-cont p {
+	font-family: 'Proxima N W01 Light';
+	font-size: 19px;
+	color: #6d6d6d;
+}
+
+ol.search-results-cont span {
+	font-family: 'Proxima N W01 Light';
+	font-size: 15px;
+	color: #a7a7a7;
+	vertical-align: top;
+}
+
+/** END - SEARCH RESULTS **/
+
+
+
+/** CERTIFICATIONS **/
+
+.certifications-header-cont {
+	background-image: url(/images/certifications/certifications-header-bg.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 20px 0;
+}
+
+/** END - CERTIFICATIONS **/
+
+/** CONTACT US **/
+
+body.layout-contact .section-header {
+	background: url(/images/contact-landing-header.jpg) no-repeat;
+	background-position: center center;
+	background-size: cover;
+	padding: 115px 0;
+	margin: 0;
+	color: #fff;
+}
+
+.contact-form h4 { margin-top: 30px; }
+
+.contact-form textarea,
+.contact-form input[type="text"] {
+	border: 1px solid #c2c2c2;
+	padding: 8px 10px;
+	margin: 5px 0;
+	width: 100%;
+}
+
+.contact-form input[type="submit"].btn {
+	line-height: 30px;
+	text-align: center;
+	width: 175px;
+}
+
+.maparea { width: 100%; height: 130px; margin-bottom: 40px; }
+
+.maparea#maparea-sandiego { height: 300px;}
+
+/** END - CONTACT US **/
+
+/** MEDIA QUERY OVERRIDES **/
+
+@media (min-width:768px) and (max-width:992px) {
+
+	.navbar .navbar-collapse,
+	#navbar-header-main.navbar .navbar-collapse {
+		margin-top: 0px;
+	}
+
+	#navbar-services ul.nav li a {
+		padding: 0 30px;
+	}
+
+	#navbar-services ul.nav li a i {
+		font-size: 50px;
+	}
+
+	#navbar-about ul.nav li a {
+		font-size: 9px;
+	}
+
+	.navbar-form {
+		margin-bottom: 0;
+	}
+/*
+	#navbar-about,
+	#navbar-about.affix,
+	#navbar-vehicles {
+	    max-width: 750px;
+	}
+*/
+	.banner .slide-cont { background-size: cover; padding: 20px 0 40px 0; }
+	.iosslider .slide { background-size: cover; padding: 20px 0 40px 0; }
+
+}
+
+@media (max-width:767px) {
+
+	div.main-container {
+		padding-top: 65px;
+	}
+
+	.marginTop-xs-0 { margin-top: 0 !important; }
+	.marginBtm-xs-0 { margin-bottom: 0 !important; }
+
+	.navbar-collapse { max-height: none; }
+
+	.modal-dialog { width: 95%; }
+
+	.navbar.navbar-fixed-top .dropdown-menu {
+		text-align: left;
+		margin-left: 30px;
+		border-top: 0;
+	}
+
+	.navbar-brand {
+		margin-top: 10px;
+		height: 50px;
+	}
+
+	.navbar-brand img {
+		margin-top: 0;
+		height: 40px;
+	}
+
+	.navbar.navbar-fixed-top {
+		height: 65px;
+	}
+
+	.navbar .navbar-collapse {
+		margin-top: 0px;
+	}
+
+	ul.navbar-nav.nav.pull-right {
+		background-color: #fff;
+		padding: 20px 0;
+		margin: 0px;
+		width: 100%;
+	}
+
+	.text-cols-2,
+	.text-cols-3 {
+		-webkit-column-count: 1;
+		-moz-column-count: 1;
+		column-count: 1;
+		-webkit-column-gap: 0;
+		-moz-column-gap: 0;
+		column-gap: 0;
+	}
+
+	.banner .slide-cont { background-size: cover; padding: 20px 0 40px 0; }
+	.iosslider .slide { background-size: cover; padding: 20px 0 40px 0; }
+
+	.projects-sidebar {
+		min-height: 0;
+	}
+
+	section#services-category-header,
+	body.layout-about .section-header,
+	body.layout-contact .section-header,
+	body.layout-contracts-clients .vehicles-header-cont,
+	body.layout-contracts-project-locations .vehicles-header-cont,
+	body.layout-vehicles .vehicles-header-cont {
+		padding: 15px 0;
+	}
+
+	body.layout-about .section-header {
+		padding: 15px;
+	}
+
+
+	.layout-contracts-project-locations .vehicles-header-cont {
+		min-height: 0;
+	}
+
+}
+
+
+@media (max-width:992px) {
+
+	.inside-redhorse {
+		padding: 50px 0;
+		background-image: none;
+		background-color: #ebebeb;
+	}
+
+	body.layout-services .service-item a.btn {
+		height: 33px;
+		padding: 3px 12px;
+	}
+
+}
+
+@media (min-width:768px) {
+	
+}
+
+@media (min-width:768px) and (max-width:1200px) {
+	footer .footer-top .footer-contact-link {
+		font-size: 10px;
+	}
+
+	footer .footer-top .footer-contact-link .glyphicon-play {
+		margin-top: 0px;
+		font-size: 10px;
+	}
+
+	#navbar-about ul.nav li a {
+		font-size: 13px;
+	}
+	
+	body.layout-vehicles .project-list-item {
+		height: 450px;
+		padding: 0 30px;
+	}
+
+
+}
+
+@media (min-width:992px) and (max-width:1200px) {
+/*
+	#navbar-about,
+	#navbar-about.affix,
+	#navbar-vehicles {
+	    max-width: 970px;
+	}
+*/
+}
+
+
+/* Generated by grunt-webfont */
+/* Based on https://github.com/endtwist/fontcustom/blob/master/lib/fontcustom/templates/fontcustom.css */
+/*
+@font-face {
+	font-family:"redhorse";
+	src:url("data:application/x-font-woff;charset=utf-8;base64,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") format("woff"),
+		url("data:application/x-font-ttf;charset=utf-8;base64,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") format("truetype");
+	font-weight:normal;
+	font-style:normal;
+}
+*/
+/* Bootstrap Overrides */
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+	font-family:"icomoon";
+	display:inline-block;
+	vertical-align:middle;
+	line-height:1;
+	font-weight:normal;
+	font-style:normal;
+	speak:none;
+	text-decoration:inherit;
+	text-transform:none;
+	text-rendering:optimizeLegibility;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+}
+/*
+.icon-energy:before {
+	content:"\e001";
+}
+
+.icon-environmental:before {
+	content:"\e002";
+}
+
+.icon-intelligence:before {
+	content:"\e003";
+}
+
+.icon-technology:before {
+	content:"\e004";
+}
+*/
+
+/*** New Icons Created 11-05-15 ***/
+/* These are just the icons used on the homepage */
+@font-face {
+	font-family: 'icomoon';
+	src:url('../Welcome to Redhorse Corporation_files/fonts/icomoon.eot?7z70jz');
+	src:url('../Welcome to Redhorse Corporation_files/fonts/icomoon.eot?7z70jz#iefix') format('embedded-opentype'),
+url('../Welcome to Redhorse Corporation_files/fonts/icomoon.ttf?7z70jz') format('truetype'),
+url('../Welcome to Redhorse Corporation_files/fonts/icomoon.woff?7z70jz') format('woff'),
+url('../Welcome to Redhorse Corporation_files/fonts/icomoon.svg?7z70jz#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-environmental:before {
+	content: "\e900";
+}
+.icon-energy:before {
+	content: "\e901";
+}
+.icon-intelligence:before {
+	content: "\e902";
+}
+.icon-mission_support:before {
+	content: "\e903";
+}
+.icon-technology:before {
+	content: "\e904";
+}
+
+
+
+
+/**
+ * iOs Slider
+ */
+
+/* slider container */
+.iosslider {
+	/* required */
+	position: relative;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	width: 100%;
+	height: 420px;
+}
+
+/* slider */
+.iosslider .slider {
+	/* required */
+	width: 100%;
+	height: 100%;
+}
+
+/* slide */
+.iosslider .slider .slide {
+	/* required */
+	float: left;
+
+	width: 100%;
+	height: 100%;
+}
+
+
+.slideSelectors {
+	position: relative;
+	bottom: 40px;
+	left: 0;
+	width: 160px;
+	margin: 0 auto;
+	z-index: 1;
+	height: 11px;
+}
+
+.slideSelectors .prev {
+	float: left;
+	width: 11px;
+	height: 11px;
+	background: url(../_img/selector-prev.png) no-repeat 50% 0;
+}
+
+.slideSelectors .next {
+	float: left;
+	width: 11px;
+	height: 11px;
+	margin: 0 0 0 10px;
+	background: url(../_img/selector-next.png) no-repeat 50% 0;
+}
+
+.slideSelectors .item {
+	float: left;
+	width: 13px;
+	height: 13px;
+	background: #fff;
+	margin: 1px 1px 1px 11px;
+	border-radius: 50%;
+}
+
+.slideSelectors .item.first {
+	margin-left: 1px;
+}
+
+.slideSelectors .selected {
+	background: #ffcf00;
+}
+
+.slideSelectors .selected.first {
+	margin-left: 0;
+}
+
