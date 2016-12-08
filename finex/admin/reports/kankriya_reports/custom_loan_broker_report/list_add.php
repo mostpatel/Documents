@@ -491,7 +491,7 @@ if(isset($_SESSION['ack']['msg']) && isset($_SESSION['ack']['type']))
 			 	?></b></td>
             
                <td  style=""><b><?php   
-			  if($penalty_type==1) { $lr_give = 100 - $lr;  $penalty_amt = round(($lr_give/100)*$penalty_amount,2); echo $penalty_amt; if($lr>0) { echo $penalty_amt;	$lr_total = $lr_total + $penalty_amt;} else { echo 0; $penalty_amount=0; } } else if($penalty_type==0) {  $penalty_amt = -round($penalty_amount,2); if($lr>0) { echo $penalty_amt;	$lr_total = $lr_total + $penalty_amt;} else { echo 0; $penalty_amount=0; }}		
+			  if($penalty_type==1) { $lr_give = 100 - $lr;  $penalty_amt = round(($lr_give/100)*$penalty_amount,2); echo $penalty_amt; if($lr>0) { echo $penalty_amt;	$lr_total = $lr_total + $penalty_amt;} else { echo 0; $penalty_amt=0; } } else if($penalty_type==0) {  $penalty_amt = -round($penalty_amount,2); if($lr>0) { echo $penalty_amt;	$lr_total = $lr_total + $penalty_amt;} else { echo 0; $penalty_amt=0; }}		
 			 	?></b></td>
             
                  <td><b><?php  $participation_amt = round(($emi['loan_amount']*$participation)/100,0); echo $participation_amt; $participation_total=$participation_total + $participation_amt; ?></b></td>

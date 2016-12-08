@@ -121,12 +121,12 @@ function insertReceiptForSalesId($sales_id,$amount,$trans_date,$to_ledger,$from_
 			
 			$result=insertReceiptReturnTypeRasidNo($amount,$trans_date,$to_ledger,$from_ledger,$remarks,5,$sales_id,'NA',0,$oc_id,$payment_mode_id,$chq_date,$chq_no,$bank_name,$branch_name);
 			
-			if(TAX_MODE==1)
+			/*if(TAX_MODE==1)
 			{
 				$income_ledger=getInomeLedgerForOC($oc_id);
 				addJV($amount,$trans_date,$to_ledger,'L'.$income_ledger,'SALES RECEIPT AUTO JV',10,$result,$oc_id);
 				
-			}
+			} */
 			
 			if(checkForNumeric($result) && $kasar_amount>0) // finanacer rasid
 			{
@@ -231,8 +231,9 @@ function updateReceiptForSalesId($sales_id,$id,$amount,$trans_date,$to_ledger,$f
 			$result = updateReceipt($id,$amount,$trans_date,$to_ledger,$from_ledger,$remarks,$ref,$ref_type,$oc_id,$payment_mode_id,$chq_date,$chq_no,$bank_name,$branch_name);
 		
 			$kasar_jv=getKasarJvForSalesId($id);
-			$income_jv = getIncomeJvForReceiptId($id);
+			
 			$receipt=getReceiptById($id);
+			/*$income_jv = getIncomeJvForReceiptId($id);
 			removeJV($income_jv['jv_id']);
 			if(TAX_MODE==1)
 			{
@@ -240,7 +241,7 @@ function updateReceiptForSalesId($sales_id,$id,$amount,$trans_date,$to_ledger,$f
 				
 				addJV($amount,$trans_date,$to_ledger,'L'.$income_ledger,'SALES RECEIPT AUTO JV',10,$id,$receipt['oc_id']);
 				
-			}
+			} */
 			
 			removeJV($kasar_jv['jv_id']);
 			if(checkForNumeric($id) && $kasar_amount>0) // finanacer rasid

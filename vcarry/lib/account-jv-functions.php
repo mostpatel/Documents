@@ -53,6 +53,25 @@ function getJVById($id)
 		}
 }
 
+function getJVByAutoRasidTypeAndId($auto_rasid_type,$auto_id)
+{
+	
+	if(checkForNumeric($auto_id,$auto_rasid_type))
+	{
+		$sql="SELECT edms_ac_jv.jv_id,edms_ac_jv.amount as amount, (SELECT  CONCAT_WS(',',CONCAT_WS(' : ',IF(from_ledger_id IS NOT NULL, CONCAT('L',from_ledger_id),CONCAT('C',from_customer_id)),amount))  FROM edms_ac_jv_cd as inner_jv_cd WHERE  inner_jv_cd.jv_id = edms_ac_jv.jv_id AND type =1 GROUP BY edms_ac_jv.jv_id) as credit_details, (SELECT  CONCAT_WS(',',CONCAT_WS(' : ',IF(to_ledger_id IS NOT NULL,CONCAT('L',to_ledger_id),CONCAT('C',to_customer_id)),amount))  FROM edms_ac_jv_cd as inner_jv_cd WHERE inner_jv_cd.jv_id = edms_ac_jv.jv_id AND type =0 GROUP BY edms_ac_jv.jv_id) as debit_details,oc_id,auto_rasid_type,auto_id,trans_date,remarks,created_by,last_updated_by,date_added,date_modified,vch_no
+			  FROM edms_ac_jv,edms_ac_jv_cd
+			  WHERE edms_ac_jv.jv_id = edms_ac_jv_cd.jv_id AND edms_ac_jv.auto_rasid_type=$auto_rasid_type AND edms_ac_jv.auto_id = $auto_id GROUP BY edms_ac_jv.jv_id";
+		$result=dbQuery($sql);
+		$resultArray=dbResultToArray($result);
+		
+		if(dbNumRows($result)>0)
+		return $resultArray[0];
+		else
+		return "error"; 
+		
+		}
+}
+
 function getOutSideLabourJVForNonStockId($non_stock_id) // type = 3
 {
 	if(checkForNumeric($non_stock_id))

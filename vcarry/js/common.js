@@ -246,5 +246,5 @@ $('.showCB').change(function(e) {
 	 }
  }
  }
- 
+ $('#noticationcentermain').hide();
  

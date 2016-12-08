@@ -64,8 +64,8 @@ define('CUSTOMER_NO',$main_constants['CUSTOMER_NO']);
 define('INCOME_LEDGER',$main_constants['INCOME_LEDGER']);
 define('NOTE_GUJARATI',$main_constants['NOTE_GUJARATI']);
 define('TIN_FOR_TAX',$main_constants['TIN_FOR_TAX']);
-
-
+define('DRIVER_EXPENSE_LEDGER',$main_constants['DRIVER_EXPENSE_LEDGER']);
+	
 if(!isset($_SESSION['back_links']) || !is_array($_SESSION['back_links']))
 $_SESSION['back_links']=array();
 

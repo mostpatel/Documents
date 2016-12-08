@@ -46,8 +46,9 @@ if(isset($_SESSION['ack']['msg']) && isset($_SESSION['ack']['type']))
 	
 	$msg=$_SESSION['ack']['msg'];
 	$type=$_SESSION['ack']['type'];
-	$trip_id = $_SESSION['ack']['trip_id'];
-	
+	$ack_trip_id = $_SESSION['ack']['trip_id'];
+	$confirm_driver_trip_id = $_SESSION['ack']['confirm_driver_trip_id'];
+	$confirm_driver_email = $_SESSION['ack']['driver_email'];
 		if($msg!=null && $msg!="" && $type>0)
 		{
 ?>
@@ -63,8 +64,13 @@ if(isset($_SESSION['ack']['msg']) && isset($_SESSION['ack']['type']))
 		$_SESSION['ack']['type']=0;
 	if($msg!="")
 		$_SESSION['ack']['msg']=="";
-	if(is_numeric($trip_id))
+	if(is_numeric($ack_trip_id))
 		$_SESSION['ack']['trip_id']="";
+		if(is_numeric($confirm_driver_trip_id))
+		$_SESSION['ack']['confirm_driver_trip_id']="";
+		if(is_numeric($confirm_driver_trip_id))
+		$_SESSION['ack']['confirm_driver_trip_id']="";
+		
 }
 
 ?>
@@ -869,15 +875,24 @@ $current_balance = getOpeningBalanceForLedgerForDate('C'.$customer['customer_id'
 </style>
 <script type="application/javascript">
 
-<?php if(checkForNumeric($trip_id)) { 
+<?php 
 
-$trip=getTripById($trip_id);
+if(checkForNumeric($ack_trip_id)) { 
+
+$trip=getTripById($ack_trip_id);
 ?>
 
-writeTripStartData('<?php echo $trip_id; ?>','<?php echo $trip['from_shipping_location']; ?>','<?php echo $trip['to_shipping_location']; ?>');
+writeTripStartData('<?php echo $ack_trip_id; ?>','<?php echo $trip['from_shipping_location']; ?>','<?php echo $trip['to_shipping_location']; ?>','<?php echo $trip['trip_datetime']; ?>');
 //document.location.href="index.php?view=details&id=<?php echo $customer_id; ?>";
 <?php
- } ?>
+ }
+ else if(checkForNumeric($confirm_driver_trip_id) && validateForNull($confirm_driver_email))
+ {
+?>
+confirmDriver('<?php echo $confirm_driver_trip_id; ?>','<?php echo $confirm_driver_email; ?>')	 
+<?php 
+}
+  ?>
 
 $('.printSectionBtn').click(function(e) {
 

@@ -95,6 +95,7 @@ Type <span class="requiredField">*  :
 <select  name="type" id="type">
      <option value="0">Managed</option>
      <option value="1">Associated</option>
+     <option value="2">Outsourced</option>
 </select>
 </td>
 

@@ -111,13 +111,18 @@ if(isset($_GET['action']))
 				
 				if(checkForNumeric($result))
 				{
-					
+					if($_POST['auto_rasid_type']==4 && $_POST['auto_id']>0)
+					{
+						
+						insertDriverJVForTrip($_POST['auto_id']);
+					}
 					
 					$_SESSION['ack']['msg']="Sales successfully added!";
 					$_SESSION['ack']['type']=1; // 1 for insert
 					if($_POST['auto_id']>0)
 					{
-						header("Location: ".WEB_ROOT."admin/customer/index.php?view=details&id=".$_POST['to_ledger_id']);
+						$to_ledger_id = str_replace('C',"",$to_ledger_id);
+						header("Location: ".WEB_ROOT."admin/customer/index.php?view=details&id=".$to_ledger_id);
 					exit;
 						}
 					else
@@ -197,6 +202,12 @@ if(isset($_GET['action']))
 				
 				if($result=="success")
 				{	
+				$sales=getSaleById($_POST['id']);
+				if($sales['auto_rasid_type']==4 && $sales['auto_id']>0)
+					{
+						
+						insertDriverJVForTrip($sales['auto_id']);
+					}
 				$_SESSION['ack']['msg']="Sales updated Successfuly!";
 				$_SESSION['ack']['type']=2; // 2 for update
 				header("Location: ".WEB_ROOT."admin/accounts/transactions/sales_inventory/index.php?view=details&id=".$_POST['id']);

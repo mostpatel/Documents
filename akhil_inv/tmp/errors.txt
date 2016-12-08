@@ -40456,3 +40456,12 @@
 2016-12-06 17:37:46 - Invalid argument supplied for foreach() common.php : 131
 2016-12-06 17:37:46 - Invalid argument supplied for foreach() common.php : 131
 2016-12-06 17:37:46 - Invalid argument supplied for foreach() common.php : 131
+2016-12-08 16:03:40 - Undefined variable: selectedLink common.php : 131
+2016-12-08 16:03:41 - Undefined variable: selectedLink common.php : 131
+2016-12-08 16:04:15 - Invalid argument supplied for foreach() common.php : 131
+2016-12-08 16:12:57 - Invalid argument supplied for foreach() common.php : 131
+2016-12-08 16:12:59 - Invalid argument supplied for foreach() common.php : 131
+2016-12-08 16:13:09 - Invalid argument supplied for foreach() common.php : 131
+2016-12-08 16:20:16 - Invalid argument supplied for foreach() common.php : 131
+2016-12-08 16:21:09 - Invalid argument supplied for foreach() common.php : 131
+2016-12-08 16:21:17 - Invalid argument supplied for foreach() common.php : 131

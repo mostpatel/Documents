@@ -32,7 +32,8 @@ if(isset($_SESSION['ack']['msg']) && isset($_SESSION['ack']['type']))
 	$msg=$_SESSION['ack']['msg'];
 	$type=$_SESSION['ack']['type'];
 	
-	
+	$confirm_driver_trip_id = $_SESSION['ack']['confirm_driver_trip_id'];
+	$confirm_driver_email = $_SESSION['ack']['driver_email'];
 		if($msg!=null && $msg!="" && $type>0)
 		{
 ?>
@@ -48,6 +49,10 @@ if(isset($_SESSION['ack']['msg']) && isset($_SESSION['ack']['type']))
 		$_SESSION['ack']['type']=0;
 	if($msg!="")
 		$_SESSION['ack']['msg']=="";
+		if(is_numeric($confirm_driver_trip_id))
+		$_SESSION['ack']['confirm_driver_trip_id']="";
+		if(is_numeric($confirm_driver_trip_id))
+		$_SESSION['ack']['confirm_driver_trip_id']="";
 }
 
 ?>
@@ -182,3 +187,14 @@ if(isset($_SESSION['ack']['msg']) && isset($_SESSION['ack']['type']))
 </div>
 </div>
 <div class="clearfix"></div>
+<script>
+<?php
+ 
+ if(checkForNumeric($confirm_driver_trip_id) && validateForNull($confirm_driver_email))
+ {
+?>
+confirmDriver('<?php echo $confirm_driver_trip_id; ?>','<?php echo $confirm_driver_email; ?>')	 
+<?php 
+}
+  ?>
+</script>

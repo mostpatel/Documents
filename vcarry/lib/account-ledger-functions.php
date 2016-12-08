@@ -1798,6 +1798,32 @@ function getInomeLedgerForOC($oc_id)
 	return $duplicate;
 }
 
+function createDriverExpenseLedgerForOC($oc_id)
+{
+	
+	$unsecured_loans_head_id=getDirectExpensesId();
+	if(checkForNumeric($oc_id))
+	{
+		
+		$result=insertLedger(DRIVER_EXPENSE_LEDGER,'','',null,null,'',$unsecured_loans_head_id,'','','','',0,0,null,$oc_id);
+		if(checkForNumeric($result))
+		return $result;
+		else
+		return false;
+		}
+	return false;	
+}
+
+function getDriverExpenseLedgerForOC($oc_id)
+{
+	$duplicate = checkforDuplicateLedger(DRIVER_EXPENSE_LEDGER,$oc_id);
+
+	if(!checkForNumeric($duplicate)) 
+	$duplicate = createDriverExpenseLedgerForOC($oc_id);
+
+	return $duplicate;
+}
+
 function getLedgerHeadType($ledger_id) // returns 0 if bank or cash  2 = tax_head_id or 3 = purchase or 4 = sales else 1
 {
 	if(checkForNumeric($ledger_id))

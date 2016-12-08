@@ -1,9 +1,4 @@
-
       var currentUser;
-
-
-
-
 
 
       // Set the configuration for your app
@@ -92,25 +87,29 @@
         });
       }
 	  
-	  function writeTripStartData(trip_id,from_location,to_location) {
-       
+	
+	    function writeTripStartData(trip_id,from_location,to_location,date_time) {
+      
         firebase.database().ref('request/' + trip_id).set({
           id: trip_id,
 		  from: from_location,
-		  to: to_location
+		  to: to_location,
+		  date_time : date_time
         });
 		
       }
 	  
-	    function writeTripStartData(email,from_location,to_location) {
-       
-        firebase.database().ref('request/' + trip_id).set({
-          id: trip_id,
-		  from: from_location,
-		  to: to_location
-        });
-		
-      }
+
+                function confirmDriver(trip_id, confirmed_driver_email) 
+                {
+                    var updates = {};
+                    updates['/accepted/' + trip_id + '/confirm'] = confirmed_driver_email;
+
+                    return firebase.database().ref().update(updates);
+                 }
+
+      
+
 	  
 	  
 	  var totalRequest;

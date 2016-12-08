@@ -3,9 +3,13 @@ require_once("cg.php");
 require_once("city-functions.php");
 require_once("customer-functions.php");
 require_once("vehicle-insurance-functions.php");
+require_once("account-sales-functions.php");
 require_once("insurance-company-functions.php");
 require_once("vehicle-functions.php");
 require_once("account-functions.php");
+require_once("driver-functions.php");
+require_once("account-jv-functions.php");
+require_once("account-ledger-functions.php");
 require_once("vehicle-sales-functions.php");
 require_once("inventory-sales-functions.php");
 require_once("inventory-item-functions.php");
@@ -73,7 +77,7 @@ function getTripById($trip_id)
 {
 	if(checkForNumeric($trip_id))
 	{
-		$sql="SELECT `trip_id`, `trip_datetime`, `from_shipping_location_id`, `to_shipping_location_id`,from_location.shipping_name as from_shipping_location,from_location.city_id as from_city_id, from_location.area_id as from_area_id , to_location.shipping_name as to_shipping_location, to_location.city_id as to_city_id,  to_location.area_id as to_area_id,  edms_vehicle_type.`vehicle_type_id`, edms_driver.`driver_id`, driver_name, `fare`, `edms_trip`.`created_by`, `edms_trip`.`last_modified_by`, `edms_trip`.`date_added`, `edms_trip`.`date_modified`, `trip_status`, edms_trip.`customer_id`, status, customer_name FROM `edms_trip` 
+		$sql="SELECT `trip_id`, `trip_datetime`, `from_shipping_location_id`, `to_shipping_location_id`,from_location.shipping_name as from_shipping_location,from_location.city_id as from_city_id, from_location.area_id as from_area_id , to_location.shipping_name as to_shipping_location, to_location.city_id as to_city_id,  to_location.area_id as to_area_id,  edms_vehicle_type.`vehicle_type_id`, edms_driver.`driver_id`, driver_name, `fare`, `edms_trip`.`created_by`, `edms_trip`.`last_modified_by`, `edms_trip`.`date_added`, `edms_trip`.`date_modified`, `trip_status`, edms_trip.`customer_id`, status, customer_name, (SELECT MIN(customer_contact_no) FROM edms_customer_contact_no WHERE edms_customer_contact_no.customer_id = edms_customer.customer_id GROUP BY edms_customer_contact_no.customer_id) as customer_contact_no FROM `edms_trip` 
 		INNER JOIN edms_customer ON edms_customer.customer_id = edms_trip.customer_id
 INNER JOIN edms_shipping_locations as from_location ON edms_trip.from_shipping_location_id = from_location.shipping_location_id 
 INNER JOIN edms_shipping_locations as to_location ON edms_trip.to_shipping_location_id = to_location.shipping_location_id  
@@ -277,6 +281,56 @@ function getSalesIdForTripId($trip_id)
 	$resultArray = dbResultToArray($result);
 	if(dbNumRows($result)>0)
 	return $resultArray[0][0];
+	else
+	return false;
+}
+
+function insertTripStoppedDataFromApp($trip_id,$start_time,$stop_time,$start_latlong,$stop_latlong,$trip_distance,$memo_amount,$labour_amount,$cash_received)
+{
+	if(checkForNumeric($trip_id,$start_time,$stop_time,$trip_distance,$memo_amount,$labour_amount,$cash_received) && validateForNull($start_latlong,$stop_latlong))
+	{
+		$sql="INSERT INTO `edms_trip_stopped_appdata`( `trip_id`, `trip_start_time`, `trip_stop_time`, `trip_start_latlong`, `trip_stop_latlong`, `trip_distance`, `memo_amount`, `labour_amount`, `cash_received`, date_added) VALUES ($trip_id,'$start_time' , '$stop_time','$start_latlong','$stop_latlong',$trip_distance,$memo_amount,$labour_amount,$cash_received, NOW())";		
+		dbQuery($sql);
+		return dbInsertId();
+	}
+	return "error";
+}
+
+function insertDriverJVForTrip($trip_id)
+{
+	$trip = getTripById($trip_id);
+	$sales_id = getSalesIdForTripId($trip_id);
+	$sales=getSaleById($sales_id);
+	$amount = $sales['amount'];
+	$driver = getDriverById($trip['driver_id']);
+	$oc_id=$_SESSION['edmsAdminSession']['oc_id'];
+	if($driver['type']==2)
+	{
+		$driver_share = $driver['share_expense'];
+		$driver_share_amount = $amount*($driver_share/100);
+		$driver_expense_ledger = getDriverExpenseLedgerForOC($oc_id);
+		$driver_ledger = $driver['ledger_id'];
+		deleteDriverJvForTripId($trip_id);
+		$driver_jv=getDriverJvForTrip($trip_id);
+		if(!$driver_jv)
+		return addJV($driver_share_amount,date('d/m/Y',strtotime($sales['trans_date'])),'L'.$driver_ledger,'L'.$driver_expense_ledger,'Driver Trip Commision',11,$trip_id,$oc_id);
+	}
+	return "error";
+}
+
+function deleteDriverJvForTripId($trip_id)
+{
+	$driver_jv=getDriverJvForTrip($trip_id);
+	if(checkForNumeric($driver_jv['jv_id']))
+	removeJV($driver_jv['jv_id']);
+}
+
+
+function getDriverJvForTrip($trip_id)
+{
+	$driver_jv=getJVByAutoRasidTypeAndId(11,$trip_id);
+	if(checkForNumeric($driver_jv['jv_id']))
+	return $driver_jv;
 	else
 	return false;
 }

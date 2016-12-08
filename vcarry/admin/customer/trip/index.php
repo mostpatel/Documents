@@ -178,8 +178,11 @@ if(isset($_GET['action']))
 				$result=updateDriverForTrip($_POST['trip_id'],$_POST['driver_id']);
 				if($result)
 				{	
+				$driver = getDriverById($_POST['driver_id']);
 				$_SESSION['ack']['msg']="Driver Allocation updated Successfuly!";
 				$_SESSION['ack']['type']=2; // 2 for update
+				$_SESSION['ack']['confirm_driver_trip_id'] = $_POST['trip_id'];
+				$_SESSION['ack']['driver_email'] = $driver['email'];
 				header("Location: ".WEB_ROOT."admin/customer/trip/index.php?view=details&id=".$_POST['trip_id']);
 				exit;
 				}
